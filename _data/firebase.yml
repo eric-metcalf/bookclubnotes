@@ -1,0 +1,18 @@
+# Firebase project configuration
+# --------------------------------
+# Find these values in the Firebase Console:
+#   Project Settings > General > Your apps > Web app > SDK setup and configuration
+#
+# Setup steps:
+#   1. Go to https://console.firebase.google.com and create a project
+#   2. In the project, go to Authentication > Sign-in method > Enable Google
+#   3. In Authentication > Settings > Authorized domains, add your GitHub Pages domain
+#      (e.g. yourusername.github.io)
+#   4. In Project Settings > General, add a Web app and copy the config below
+
+apiKey: "AIzaSyDWO_bapz3qjRZ4XR8zlYkbAgFqsT68dAA"
+authDomain: "gwinsbookclub.firebaseapp.com"
+projectId: "gwinsbookclub"
+storageBucket: "gwinsbookclub.firebasestorage.app"
+messagingSenderId: "641921047711"
+appId: "1:641921047711:web:f49b67482046ddab8d56aa"

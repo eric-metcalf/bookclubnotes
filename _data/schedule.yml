@@ -1,0 +1,94 @@
+# Book club meeting schedule — every Saturday at 9:00 AM
+# status options: past | next | upcoming
+# slug: add a slug to link the session to a detail page in /sessions/
+
+- date: "March 28, 2026"
+  time: "9:00 AM"
+  status: next
+  slug: "march-28"
+  topic: "Approval Addiction"
+  chapters: "Chapter 8"
+  notes: >
+    Burns digs into the need for approval and how it quietly runs our lives.
+    Come ready to share one situation where you sought approval this week.
+
+- date: "April 4, 2026"
+  time: "9:00 AM"
+  status: upcoming
+  topic: "Dare to Be Average"
+  chapters: "Chapter 9"
+  notes: >
+    The perfectionism trap — how high standards can quietly become a source
+    of misery. Burns makes a surprisingly compelling case for lowering the bar.
+
+- date: "April 18, 2026"
+  time: "9:00 AM"
+  status: upcoming
+  topic: "A Prescription for Perfectionists"
+  chapters: "Chapter 10"
+  notes: >
+    Practical tools for loosening the grip of perfectionism in daily life.
+    We'll work through some of the exercises together.
+
+- date: "April 25, 2026"
+  time: "9:00 AM"
+  status: upcoming
+  topic: "The Guilt Trip"
+  chapters: "Chapter 11"
+  notes: >
+    What's the difference between healthy remorse and destructive guilt?
+    Burns has a sharp distinction that's worth sitting with.
+
+- date: "May 2, 2026"
+  time: "9:00 AM"
+  status: upcoming
+  topic: "Verbal Judo"
+  chapters: "Chapter 12"
+  notes: >
+    How to respond to criticism without collapsing or counter-attacking.
+    We'll role-play a few scenarios — come with a real one in mind.
+
+- date: "May 9, 2026"
+  time: "9:00 AM"
+  status: upcoming
+  topic: "Your Secret Communication Patterns"
+  chapters: "Chapter 13"
+  notes: >
+    The hidden ways we push people away without meaning to.
+    Burns covers blame, nagging, helplessness, and more.
+
+- date: "May 16, 2026"
+  time: "9:00 AM"
+  status: upcoming
+  topic: "Conflict Resolution"
+  chapters: "Chapter 14"
+  notes: >
+    Tools for expressing frustration without creating defensiveness.
+    Bring a real conflict you'd be willing to think through with the group.
+
+- date: "May 23, 2026"
+  time: "9:00 AM"
+  status: upcoming
+  topic: "The Chemistry of Mood"
+  chapters: "Chapter 15"
+  notes: >
+    A look at the biological side of depression — what we know, what we don't,
+    and how it fits with the cognitive approach.
+
+- date: "May 30, 2026"
+  time: "9:00 AM"
+  status: upcoming
+  topic: "Mood-Altering Drugs"
+  chapters: "Chapter 16"
+  notes: >
+    Burns' thoughtful take on antidepressants — when they help, when they don't,
+    and how to think about them alongside CBT.
+
+- date: "June 6, 2026"
+  time: "9:00 AM"
+  status: upcoming
+  topic: "Wrap-Up & What's Next"
+  chapters: "Chapter 17 + Appendix"
+  notes: >
+    Final session! What stayed with us? What do we want to carry forward?
+    We'll share our biggest takeaways and vote on the next book.

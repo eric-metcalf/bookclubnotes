@@ -1,0 +1,13 @@
+title: Feeling Good Book Club
+description: A warm corner for our reading journey through the science of happiness
+url: ""
+baseurl: ""
+
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-seo-tag
