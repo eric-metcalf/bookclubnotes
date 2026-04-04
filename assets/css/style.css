@@ -184,6 +184,11 @@ header {
   font-weight: 600;
   color: var(--charcoal);
   white-space: nowrap;
+  text-decoration: none;
+}
+
+.site-name:hover {
+  color: var(--rose);
 }
 
 .user-bar {
