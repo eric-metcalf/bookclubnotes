@@ -33,7 +33,7 @@ thoughts, and something delicious to share if you're hosting.
 
 ## About Our Club
 
-<div class="about-card">
+<div class="about-card" markdown="1">
 
 We're a small group of friends who believe reading is better together. This club
 is a space to slow down, think carefully, and talk honestly — about books, and
