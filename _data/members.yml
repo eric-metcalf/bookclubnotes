@@ -1,9 +1,14 @@
 # Approved book club members
-# Add or remove email addresses to control who can access the site.
-# Emails must match the Google account used to sign in.
+# Add or remove members to control who can access the site.
+# email must match the Google account used to sign in.
 
-- emetcalf216@gmail.com
-- stellalvmei@gmail.com
-- jsmentch@gmail.com
-- rathbunchristopher18@gmail.com
-- gwinzhou@gmail.com
+- email: emetcalf216@gmail.com
+  name: Eric
+- email: stellalvmei@gmail.com
+  name: Stella
+- email: jsmentch@gmail.com
+  name: ""
+- email: rathbunchristopher18@gmail.com
+  name: Christopher
+- email: gwinzhou@gmail.com
+  name: Gwin

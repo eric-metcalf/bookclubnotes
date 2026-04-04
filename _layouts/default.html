@@ -53,6 +53,14 @@
     <header>
       <div class="header-inner">
         <span class="site-name">📚 Feeling Good Book Club</span>
+        <nav class="site-nav">
+          <div class="nav-item has-dropdown">
+            <button class="nav-link">Tools ▾</button>
+            <div class="nav-dropdown">
+              <a href="{{ '/popcorn/' | relative_url }}" class="nav-dropdown-item">🍿 Popcorn Order</a>
+            </div>
+          </div>
+        </nav>
         <div class="user-bar">
           <span id="user-name"></span>
           <button id="sign-out-btn">Sign out</button>
@@ -85,8 +93,8 @@
     };
 
     const ALLOWED_EMAILS = [
-      {% for email in site.data.members -%}
-      "{{ email | downcase }}"{% unless forloop.last %},{% endunless %}
+      {% for member in site.data.members -%}
+      "{{ member.email | downcase }}"{% unless forloop.last %},{% endunless %}
       {% endfor %}
     ];
   </script>

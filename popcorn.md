@@ -163,8 +163,8 @@ title: Popcorn Order
 
 <script>
   const MEMBERS = [
-    {% for email in site.data.members -%}
-    "{{ email }}"{% unless forloop.last %},{% endunless %}
+    {% for member in site.data.members -%}
+    { name: "{{ member.name | default: member.email | split: '@' | first }}", email: "{{ member.email }}" }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ];
 
@@ -177,8 +177,8 @@ title: Popcorn Order
     return a;
   }
 
-  function displayName(email) {
-    return email.split('@')[0];
+  function displayName(member) {
+    return member.name || member.email.split('@')[0];
   }
 
   let order = [];
@@ -209,6 +209,7 @@ title: Popcorn Order
     activeSection.classList.remove('hidden');
 
     currentName.textContent = displayName(order[currentIndex]);
+
 
     const remaining = order.length - currentIndex - 1;
     progressLabel.textContent = remaining === 0
