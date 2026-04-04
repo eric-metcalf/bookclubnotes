@@ -3,7 +3,7 @@
 # slug: add a slug to link the session to a detail page in /sessions/
 
 - date: "March 28, 2026"
-  time: "9:00 AM"
+  time: "8:00 AM PT / 11:00 AM ET"
   status: past
   slug: "march-28"
   topic: "Approval Addiction"
@@ -13,13 +13,13 @@
     Come ready to share one situation where you sought approval this week.
 
 - date: "April 4, 2026"
-  time: "9:00 AM"
+  time: "8:00 AM PT / 11:00 AM ET"
   status: past
   topic: "Approval Addiction"
   chapters: "Chapter 8"
 
 - date: "April 11, 2026"
-  time: "9:00 AM"
+  time: "8:00 AM PT / 11:00 AM ET"
   status: next
   slug: "april-11"
   topic: "Love Addiction"
@@ -29,13 +29,13 @@
     the neediness itself tends to push love away. Come ready to share.
 
 - date: "April 18, 2026"
-  time: "9:00 AM"
+  time: "8:00 AM PT / 11:00 AM ET"
   status: upcoming
   topic: "Your Work Is Not Your Worth"
   chapters: "Chapter 13"
 
 - date: "April 25, 2026"
-  time: "9:00 AM"
+  time: "8:00 AM PT / 11:00 AM ET"
   status: upcoming
   topic: "Dare to Be Average: Ways to Overcome Perfectionism"
   chapters: "Chapter 14"

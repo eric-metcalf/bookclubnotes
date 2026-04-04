@@ -25,7 +25,7 @@ title: Feeling Good Book Club
 
 ## Meeting Schedule
 
-We meet every Saturday at 9:00 AM. Bring your book, your
+We meet every Saturday at 8:00 AM PT / 11:00 AM ET. Bring your book, your
 thoughts, and something delicious to share if you're hosting.
 
 {% include schedule.html %}
