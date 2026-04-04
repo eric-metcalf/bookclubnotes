@@ -4,7 +4,7 @@
 
 - date: "March 28, 2026"
   time: "9:00 AM"
-  status: next
+  status: past
   slug: "march-28"
   topic: "Approval Addiction"
   chapters: "Chapter 8"
@@ -14,12 +14,12 @@
 
 - date: "April 4, 2026"
   time: "9:00 AM"
-  status: upcoming
-  topic: "Dare to Be Average"
-  chapters: "Chapter 9"
+  status: next
+  slug: "april-4"
+  topic: "Love Addiction"
   notes: >
-    The perfectionism trap — how high standards can quietly become a source
-    of misery. Burns makes a surprisingly compelling case for lowering the bar.
+    Burns makes the case that needing love to feel worthy is a trap — and that
+    the neediness itself tends to push love away. Come ready to share.
 
 - date: "April 18, 2026"
   time: "9:00 AM"
