@@ -3,12 +3,14 @@
 # email must match the Google account used to sign in.
 
 - email: emetcalf216@gmail.com
-  name: Eric
+  name: eric
 - email: stellalvmei@gmail.com
-  name: Stella
+  name: stella
 - email: jsmentch@gmail.com
-  name: ""
+  name: jeff
 - email: rathbunchristopher18@gmail.com
-  name: Christopher
+  name: chris
 - email: gwinzhou@gmail.com
-  name: Gwin
+  name: gwin
+- email: pjloury@gmail.com
+  name: pj
