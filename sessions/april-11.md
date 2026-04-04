@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Love Addiction — April 4, 2026"
+title: "Love Addiction — April 11, 2026"
 ---
 
 # The Love Addiction

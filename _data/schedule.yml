@@ -14,9 +14,16 @@
 
 - date: "April 4, 2026"
   time: "9:00 AM"
+  status: past
+  topic: "Approval Addiction"
+  chapters: "Chapter 8"
+
+- date: "April 11, 2026"
+  time: "9:00 AM"
   status: next
-  slug: "april-4"
+  slug: "april-11"
   topic: "Love Addiction"
+  chapters: "Chapter 12"
   notes: >
     Burns makes the case that needing love to feel worthy is a trap — and that
     the neediness itself tends to push love away. Come ready to share.
