@@ -273,8 +273,7 @@ header {
   z-index: 20;
 }
 
-.nav-item.has-dropdown:hover .nav-dropdown,
-.nav-item.has-dropdown:focus-within .nav-dropdown {
+.nav-item.has-dropdown.open .nav-dropdown {
   opacity: 1;
   pointer-events: auto;
   transform: translateY(0);

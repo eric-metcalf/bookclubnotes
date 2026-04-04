@@ -102,5 +102,20 @@
   <!-- Firebase Auth (ESM module via CDN) -->
   <script type="module" src="{{ '/assets/js/auth.js' | relative_url }}"></script>
 
+  <!-- Nav dropdown toggle -->
+  <script>
+    document.querySelectorAll('.nav-item.has-dropdown').forEach(function(item) {
+      item.querySelector('.nav-link').addEventListener('click', function(e) {
+        e.stopPropagation();
+        item.classList.toggle('open');
+      });
+    });
+    document.addEventListener('click', function() {
+      document.querySelectorAll('.nav-item.has-dropdown.open').forEach(function(item) {
+        item.classList.remove('open');
+      });
+    });
+  </script>
+
 </body>
 </html>
