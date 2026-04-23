@@ -5,6 +5,7 @@ permalink: /8-dates/4-work-money/
 ---
 
 {% include date-styles.html %}
+{% include answer-styles.html %}
 
 <div class="dates-page">
 
@@ -20,6 +21,16 @@ permalink: /8-dates/4-work-money/
   work can become the "third party" in a relationship, demanding time and energy. The goal
   of this date isn't to budget or plan; it's to understand each other's history, values,
   and dreams around work and money.</p>
+
+  <div class="answers-toggle-bar">
+    <button type="button" class="answers-toggle" data-answers-toggle aria-pressed="false">Hide my answers</button>
+  </div>
+
+  <div class="privacy-note">
+    <strong>Private to you.</strong> Your answers below autosave as you type and are only
+    visible to you when signed in. They're meant as a reflection aid before the date —
+    sharing happens in conversation, not on the page.
+  </div>
 
   <h3>Speed Dating — The Big Ideas</h3>
   <ul>
@@ -38,35 +49,174 @@ permalink: /8-dates/4-work-money/
     <li>Complete the <strong>What Enough Money Means to Me</strong> questionnaire (below), separately.</li>
   </ol>
 
+  <div class="question-item">
+    <p class="prompt"><em>Three things you appreciate about your partner's contribution to the wealth of the relationship (paid or unpaid):</em></p>
+    <div class="answer-area">
+      <textarea data-question-id="appreciate" rows="4" placeholder="Your three appreciations…"></textarea>
+      <span class="save-status" data-state="idle"></span>
+    </div>
+  </div>
+
   <div class="exercise-block">
     <p class="ex-label">Exercise 1 · My Family History with Money</p>
     <h4>Complete separately before the date, then discuss together</h4>
-    <ul>
-      <li>What did your maternal and paternal grandparents do for a living? How well off were your grandparents?</li>
-      <li>What did your parents do for a living? How well off were your parents?</li>
-      <li>What were your parents' attitudes about money? How did you view these parental ideas as a child?</li>
-      <li>Did your parents feel comfortable spending money? How did you view this as a child?</li>
-      <li>Did your parents save money or invest? How did you view this as a child?</li>
-      <li>Did your family take vacations or travel together when you were growing up? How did you view these as a child? Was money discussed?</li>
-      <li>Did your family entertain? How did you view this as a child?</li>
-      <li>Did your family engage in philanthropy or charitable activities?</li>
-      <li>As a child did you have an allowance? How did you view this as a child?</li>
-      <li>What is your own work history?</li>
-      <li>What does money mean to you personally, and why?</li>
-      <li>Did your parents celebrate your birthdays? Did you feel special? Did you have a birthday cake? Did that fact matter to you as a child?</li>
-      <li>How did your parents show you they were proud of you? Or didn't they?</li>
-      <li>Did you get presents at holidays? Did that fact matter to you as a child?</li>
-      <li>What did your parents teach you about money? How do you feel about those teachings now?</li>
-      <li>What did your family's history teach you about money? What's your attitude now?</li>
-      <li>What were your family's values about money? What did you agree with, and what did you disagree with?</li>
-      <li>What is your <strong>most painful money memory</strong>? Tell the story to your partner.</li>
-      <li>What is your <strong>happiest or best money memory</strong>? Tell the story to your partner.</li>
-    </ul>
+
+    <div class="question-item">
+      <p class="prompt">What did your maternal and paternal grandparents do for a living? How well off were your grandparents?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh01" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">What did your parents do for a living? How well off were your parents?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh02" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">What were your parents' attitudes about money? How did you view these parental ideas as a child?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh03" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">Did your parents feel comfortable spending money? How did you view this as a child?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh04" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">Did your parents save money or invest? How did you view this as a child?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh05" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">Did your family take vacations or travel together when you were growing up? How did you view these as a child? Was money discussed?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh06" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">Did your family entertain? How did you view this as a child?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh07" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">Did your family engage in philanthropy or charitable activities?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh08" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">As a child did you have an allowance? How did you view this as a child?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh09" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">What is your own work history?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh10" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">What does money mean to you personally, and why?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh11" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">Did your parents celebrate your birthdays? Did you feel special? Did you have a birthday cake? Did that fact matter to you as a child?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh12" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">How did your parents show you they were proud of you? Or didn't they?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh13" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">Did you get presents at holidays? Did that fact matter to you as a child?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh14" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">What did your parents teach you about money? How do you feel about those teachings now?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh15" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">What did your family's history teach you about money? What's your attitude now?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh16" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">What were your family's values about money? What did you agree with, and what did you disagree with?</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh17" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">What is your <strong>most painful money memory</strong>? Tell the story to your partner.</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh18" rows="4" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">What is your <strong>happiest or best money memory</strong>? Tell the story to your partner.</p>
+      <div class="answer-area">
+        <textarea data-question-id="fh19" rows="4" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
   </div>
 
   <div class="exercise-block">
     <p class="ex-label">Exercise 2 · What Enough Money Means to Me</p>
-    <h4>Rate each statement separately, then discuss together</h4>
+    <h4>Rate each statement separately (in your head or on paper), then reflect below</h4>
     <p><em>5 = Strongly Agree · 4 = Agree · 3 = Neither Agree nor Disagree · 2 = Disagree · 1 = Strongly Disagree</em></p>
     <p>For me, having enough money means…</p>
     <ul>
@@ -99,6 +249,14 @@ permalink: /8-dates/4-work-money/
       <li>…filling a void in my life.</li>
       <li>…I can be happy.</li>
     </ul>
+
+    <div class="question-item">
+      <p class="prompt"><em>Which statements resonated most strongly for you? What did that reveal about what money means to you?</em></p>
+      <div class="answer-area">
+        <textarea data-question-id="likert-notes" rows="4" placeholder="Your reflection on the quiz…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
   </div>
 
   <div class="exercise-block">
@@ -108,19 +266,66 @@ permalink: /8-dates/4-work-money/
     and this compels us to work long hours. But consistent long hours come at a price —
     emotional disconnection puts the relationship at risk. Take each set of questions in
     turn.</p>
-    <p><strong>For the partner working long hours:</strong></p>
-    <ul>
-      <li>What does your work mean to you?</li>
-      <li>What pleasure or satisfaction does work bring to you?</li>
-      <li>What need does working fulfill in your life?</li>
-      <li>How would you spend your day if money was no object and you didn't have to work?</li>
-    </ul>
-    <p><strong>For the partner frustrated by the long hours:</strong></p>
-    <ul>
-      <li>What does your partner's absence mean to you?</li>
-      <li>What do you miss about your partner when they're gone so much?</li>
-      <li>What are you longing for — emotional, physical, intellectual, or spiritual connection?</li>
-    </ul>
+
+    <h4>For the partner working long hours</h4>
+
+    <div class="question-item">
+      <p class="prompt">What does your work mean to you?</p>
+      <div class="answer-area">
+        <textarea data-question-id="mt01" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">What pleasure or satisfaction does work bring to you?</p>
+      <div class="answer-area">
+        <textarea data-question-id="mt02" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">What need does working fulfill in your life?</p>
+      <div class="answer-area">
+        <textarea data-question-id="mt03" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">How would you spend your day if money was no object and you didn't have to work?</p>
+      <div class="answer-area">
+        <textarea data-question-id="mt04" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <h4>For the partner frustrated by the long hours</h4>
+
+    <div class="question-item">
+      <p class="prompt">What does your partner's absence mean to you?</p>
+      <div class="answer-area">
+        <textarea data-question-id="mt05" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">What do you miss about your partner when they're gone so much?</p>
+      <div class="answer-area">
+        <textarea data-question-id="mt06" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt">What are you longing for — emotional, physical, intellectual, or spiritual connection?</p>
+      <div class="answer-area">
+        <textarea data-question-id="mt07" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
   </div>
 
   <h3>The Date</h3>
@@ -130,6 +335,12 @@ permalink: /8-dates/4-work-money/
     <h4>Conversation topic</h4>
     <p>How do we each bring value to the relationship? What is our history with work and
     money, and what does having <em>enough</em> money mean to each of us?</p>
+    <div class="question-item">
+      <div class="answer-area">
+        <textarea data-question-id="topic" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
     <h4>Location</h4>
     <p>This date should cost nothing or as little as possible. If your income has increased
     since you started dating, do something similar to what you did when you had less. If
@@ -156,17 +367,78 @@ permalink: /8-dates/4-work-money/
   <div class="exercise-block">
     <p class="ex-label">Exercise 4 · Open-Ended Questions</p>
     <h4>The heart of the date conversation</h4>
-    <ol>
-      <li>Share <strong>three things you appreciate</strong> about your partner's contribution to the wealth of the relationship — paid or unpaid.</li>
-      <li>Discuss your answers from both questionnaires.</li>
-      <li>Discuss what you have that you are grateful for.</li>
-      <li>How do you feel about work now? How do you imagine your work changing in the future?</li>
-      <li>What is your biggest fear around money?</li>
-      <li>What do you need to feel safe talking about how you spend or how you make money?</li>
-      <li>On a scale from 1 to 10 (1 = never, 10 = always), how often do you think about money?</li>
-      <li>How can I help you feel secure when you are worried about money?</li>
-      <li>What are your hopes and dreams about money?</li>
-    </ol>
+
+    <div class="question-item">
+      <p class="prompt"><strong>1.</strong> Share three things you appreciate about your partner's contribution to the wealth of the relationship — paid or unpaid.</p>
+      <div class="answer-area">
+        <textarea data-question-id="q01" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt"><strong>2.</strong> Discuss your answers from both questionnaires.</p>
+      <div class="answer-area">
+        <textarea data-question-id="q02" rows="3" placeholder="Any notes for the discussion…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt"><strong>3.</strong> Discuss what you have that you are grateful for.</p>
+      <div class="answer-area">
+        <textarea data-question-id="q03" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt"><strong>4.</strong> How do you feel about work now? How do you imagine your work changing in the future?</p>
+      <div class="answer-area">
+        <textarea data-question-id="q04" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt"><strong>5.</strong> What is your biggest fear around money?</p>
+      <div class="answer-area">
+        <textarea data-question-id="q05" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt"><strong>6.</strong> What do you need to feel safe talking about how you spend or how you make money?</p>
+      <div class="answer-area">
+        <textarea data-question-id="q06" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt"><strong>7.</strong> On a scale from 1 to 10 (1 = never, 10 = always), how often do you think about money?</p>
+      <div class="answer-area">
+        <textarea data-question-id="q07" rows="2" placeholder="Your rating, and why…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt"><strong>8.</strong> How can I help you feel secure when you are worried about money?</p>
+      <div class="answer-area">
+        <textarea data-question-id="q08" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
+
+    <div class="question-item">
+      <p class="prompt"><strong>9.</strong> What are your hopes and dreams about money?</p>
+      <div class="answer-area">
+        <textarea data-question-id="q09" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
   </div>
 
   <div class="exercise-block">
@@ -194,3 +466,8 @@ permalink: /8-dates/4-work-money/
 </div>
 
 </div>
+
+<script>
+  window.ANSWERS_DATE_ID = "work-money";
+</script>
+<script type="module" src="{{ '/assets/js/answers.js' | relative_url }}"></script>
