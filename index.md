@@ -228,23 +228,25 @@ title: Book Club
 {% assign upcoming_books = site.data.books | where: "status", "upcoming" %}
 {% assign past_books = site.data.books | where: "status", "past" %}
 
+<div class="featured-books">
 {% for book in active_books %}
-<a href="{{ book.url | relative_url }}" class="book-feature">
-  <div class="feature-cover">
-    <img
-      src="https://covers.openlibrary.org/b/isbn/{{ book.cover_isbn }}-L.jpg"
-      alt="{{ book.title }} book cover"
-    >
-  </div>
-  <div class="feature-text">
-    <span class="feature-badge">Now Reading</span>
-    <h2>{{ book.title }}</h2>
-    <p class="author">{{ book.author }}</p>
-    <p>{{ book.description }}</p>
-    <p class="open-cta">Open →</p>
-  </div>
-</a>
+  <a href="{{ book.url | relative_url }}" class="book-feature">
+    <div class="feature-cover">
+      <img
+        src="https://covers.openlibrary.org/b/isbn/{{ book.cover_isbn }}-L.jpg"
+        alt="{{ book.title }} book cover"
+      >
+    </div>
+    <div class="feature-text">
+      <span class="feature-badge">Now Reading</span>
+      <h2>{{ book.title }}</h2>
+      <p class="author">{{ book.author }}</p>
+      <p>{{ book.description }}</p>
+      <p class="open-cta">Open →</p>
+    </div>
+  </a>
 {% endfor %}
+</div>
 
 {% if upcoming_books.size > 0 %}
 <h2 class="books-section-heading">Next Up</h2>
