@@ -156,4 +156,17 @@ title: Book Club
     <p class="open-cta">Open →</p>
   </a>
 
+  <a href="{{ '/four-thousand-weeks/' | relative_url }}" class="book-tile">
+    <div class="cover">
+      <img
+        src="https://covers.openlibrary.org/b/isbn/9780374159122-L.jpg"
+        alt="Four Thousand Weeks book cover"
+      >
+    </div>
+    <h2>Four Thousand Weeks</h2>
+    <p class="author">Oliver Burkeman</p>
+    <p>Time management for mortals — a philosophical, often funny case for making peace with our limits and choosing what actually matters.</p>
+    <p class="open-cta">Open →</p>
+  </a>
+
 </div>
