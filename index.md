@@ -143,4 +143,17 @@ title: Book Club
     <p class="open-cta">Open →</p>
   </a>
 
+  <a href="{{ '/i-will-teach-you-to-be-rich/' | relative_url }}" class="book-tile">
+    <div class="cover">
+      <img
+        src="https://covers.openlibrary.org/b/isbn/9781523505746-L.jpg"
+        alt="I Will Teach You to Be Rich book cover"
+      >
+    </div>
+    <h2>I Will Teach You to Be Rich</h2>
+    <p class="author">Ramit Sethi</p>
+    <p>A six-week program to automate your finances, stop worrying about money, and build a "rich life" on your own terms.</p>
+    <p class="open-cta">Open →</p>
+  </a>
+
 </div>
