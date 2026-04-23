@@ -82,6 +82,34 @@ permalink: /8-dates/5-family/
   .save-status[data-state="error"] {
     color: #B0403A;
   }
+
+  /* Hide-all-answers toggle */
+  .answers-toggle-bar {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0.25rem 0 1.25rem;
+  }
+
+  .answers-toggle {
+    background: transparent;
+    border: 1px solid var(--sage);
+    color: var(--sage-dark);
+    padding: 0.35rem 0.9rem;
+    border-radius: 20px;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.78rem;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s;
+  }
+
+  .answers-toggle:hover {
+    background: var(--sage);
+    color: var(--white);
+  }
+
+  .answers-hidden .answer-area {
+    display: none;
+  }
 </style>
 
 <div class="dates-page">
@@ -98,6 +126,10 @@ permalink: /8-dates/5-family/
   share a clear, honest picture of what family means to each of you, and how you'll
   protect your relationship as the shape of your family changes.</p>
 
+  <div class="answers-toggle-bar">
+    <button type="button" class="answers-toggle" data-answers-toggle aria-pressed="false">Hide my answers</button>
+  </div>
+
   <h3>Speed Dating — The Big Ideas</h3>
   <ul>
     <li>Family is diverse — children, adopted children, foster children, no children, pets, friends, or extended family are all valid definitions.</li>
@@ -112,6 +144,14 @@ permalink: /8-dates/5-family/
   <p>Reflect on what you read in this chapter and any ideas it sparked about what family
   means to you, and what you'd like family to look like in your relationship.</p>
 
+  <div class="question-item">
+    <p class="prompt"><em>Your reflection on this chapter — what stood out, what it brought up for you:</em></p>
+    <div class="answer-area">
+      <textarea data-question-id="prep" rows="3" placeholder="Your reflection…"></textarea>
+      <span class="save-status" data-state="idle"></span>
+    </div>
+  </div>
+
   <h3>The Date</h3>
 
   <div class="exercise-block">
@@ -119,6 +159,12 @@ permalink: /8-dates/5-family/
     <h4>Conversation topic</h4>
     <p>What does creating a family mean to each of us? Do we want children? How do we
     define family for our relationship?</p>
+    <div class="question-item">
+      <div class="answer-area">
+        <textarea data-question-id="topic" rows="3" placeholder="Your answer…"></textarea>
+        <span class="save-status" data-state="idle"></span>
+      </div>
+    </div>
     <h4>Location</h4>
     <p>A park or playground, an amusement park, or anywhere else families gather. Find a
     quiet spot where you can see the family activities but still focus on each other
