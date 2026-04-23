@@ -233,7 +233,7 @@ title: Book Club
   <a href="{{ book.url | relative_url }}" class="book-feature">
     <div class="feature-cover">
       <img
-        src="https://covers.openlibrary.org/b/isbn/{{ book.cover_isbn }}-L.jpg"
+        src="https://covers.openlibrary.org/b/{% if book.cover_id %}id/{{ book.cover_id }}{% else %}isbn/{{ book.cover_isbn }}{% endif %}-L.jpg"
         alt="{{ book.title }} book cover"
       >
     </div>
@@ -255,7 +255,7 @@ title: Book Club
   <a href="{{ book.url | relative_url }}" class="book-tile">
     <div class="cover">
       <img
-        src="https://covers.openlibrary.org/b/isbn/{{ book.cover_isbn }}-L.jpg"
+        src="https://covers.openlibrary.org/b/{% if book.cover_id %}id/{{ book.cover_id }}{% else %}isbn/{{ book.cover_isbn }}{% endif %}-L.jpg"
         alt="{{ book.title }} book cover"
       >
     </div>
@@ -275,7 +275,7 @@ title: Book Club
   <a href="{{ book.url | relative_url }}" class="book-tile past">
     <div class="cover">
       <img
-        src="https://covers.openlibrary.org/b/isbn/{{ book.cover_isbn }}-L.jpg"
+        src="https://covers.openlibrary.org/b/{% if book.cover_id %}id/{{ book.cover_id }}{% else %}isbn/{{ book.cover_isbn }}{% endif %}-L.jpg"
         alt="{{ book.title }} book cover"
       >
     </div>
