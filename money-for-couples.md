@@ -9,7 +9,7 @@ permalink: /money-for-couples/
 <div class="hero">
   <div class="book-cover">
     <img
-      src="https://covers.openlibrary.org/b/isbn/9780593716830-L.jpg"
+      src="https://covers.openlibrary.org/b/id/14841360-L.jpg"
       alt="Money for Couples book cover"
     >
   </div>

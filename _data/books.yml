@@ -1,5 +1,10 @@
 # Bookshelf — edit `status` to promote or retire a book.
 # Valid statuses: active (highlighted at top), upcoming (in "Next Up"), past.
+#
+# Covers: set `cover_isbn` for most books. For newer books where
+# Open Library doesn't have a cover indexed under the ISBN, use
+# `cover_id` instead (find it by searching openlibrary.org — the
+# cover URL ends in `/b/id/NUMBER-L.jpg`).
 
 - title: Eight Dates
   author: John & Julie Gottman
@@ -39,7 +44,7 @@
 - title: Money for Couples
   author: Ramit Sethi
   description: A 10-step plan for couples to stop fighting about money and design a shared rich life — full of scripts, exercises, and real conversations.
-  cover_isbn: "9780593716830"
+  cover_id: "14841360"
   url: /money-for-couples/
   status: upcoming
 
