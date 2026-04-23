@@ -214,43 +214,38 @@ permalink: /8-dates/4-work-money/
     </div>
   </div>
 
-  <div class="exercise-block">
+  <div class="exercise-block likert-block">
     <p class="ex-label">Exercise 2 · What Enough Money Means to Me</p>
-    <h4>Rate each statement separately (in your head or on paper), then reflect below</h4>
+    <h4>Rate each statement — saved privately as you go</h4>
     <p><em>5 = Strongly Agree · 4 = Agree · 3 = Neither Agree nor Disagree · 2 = Disagree · 1 = Strongly Disagree</em></p>
-    <p>For me, having enough money means…</p>
-    <ul>
-      <li>…having power.</li>
-      <li>…being independent.</li>
-      <li>…being strong.</li>
-      <li>…not having to rely on anyone else.</li>
-      <li>…being responsible.</li>
-      <li>…being able to relax and not worry.</li>
-      <li>…having time to do what I like.</li>
-      <li>…being able to have luxury.</li>
-      <li>…being able to create.</li>
-      <li>…being able to give some of it to other people.</li>
-      <li>…love, caring, and affection.</li>
-      <li>…safety, security, and stability.</li>
-      <li>…feeling competent.</li>
-      <li>…having control.</li>
-      <li>…positive self-esteem.</li>
-      <li>…being acceptable to myself and others.</li>
-      <li>…a reward for a lot of effort.</li>
-      <li>…being a successful adult.</li>
-      <li>…avoiding stress.</li>
-      <li>…deserved self-indulgence.</li>
-      <li>…feeling respected.</li>
-      <li>…taking responsibility as an adult.</li>
-      <li>…greater sexual opportunity.</li>
-      <li>…great freedom.</li>
-      <li>…companionship.</li>
-      <li>…feeling rich and comfortable.</li>
-      <li>…filling a void in my life.</li>
-      <li>…I can be happy.</li>
-    </ul>
+    <div class="group-save-status" data-state="idle"></div>
 
-    <div class="question-item">
+    <p>For me, having enough money means…</p>
+
+    <div class="likert-legend">
+      <span>Strongly Disagree</span>
+      <span>Strongly Agree</span>
+    </div>
+
+    {% assign likert_raw = "having power|likert-01;being independent|likert-02;being strong|likert-03;not having to rely on anyone else|likert-04;being responsible|likert-05;being able to relax and not worry|likert-06;having time to do what I like|likert-07;being able to have luxury|likert-08;being able to create|likert-09;being able to give some of it to other people|likert-10;love, caring, and affection|likert-11;safety, security, and stability|likert-12;feeling competent|likert-13;having control|likert-14;positive self-esteem|likert-15;being acceptable to myself and others|likert-16;a reward for a lot of effort|likert-17;being a successful adult|likert-18;avoiding stress|likert-19;deserved self-indulgence|likert-20;feeling respected|likert-21;taking responsibility as an adult|likert-22;greater sexual opportunity|likert-23;great freedom|likert-24;companionship|likert-25;feeling rich and comfortable|likert-26;filling a void in my life|likert-27;I can be happy|likert-28" %}
+    {% assign likert_items = likert_raw | split: ";" %}
+    {% for item in likert_items %}
+      {% assign parts = item | split: "|" %}
+      {% assign stmt = parts[0] %}
+      {% assign qid = parts[1] %}
+    <div class="likert-row" data-question-id="{{ qid }}">
+      <span class="likert-stmt">…{{ stmt }}.</span>
+      <fieldset class="likert-scale" aria-label="Rating for: {{ stmt }}">
+        <label><input type="radio" name="{{ qid }}" value="1"><span>1</span></label>
+        <label><input type="radio" name="{{ qid }}" value="2"><span>2</span></label>
+        <label><input type="radio" name="{{ qid }}" value="3"><span>3</span></label>
+        <label><input type="radio" name="{{ qid }}" value="4"><span>4</span></label>
+        <label><input type="radio" name="{{ qid }}" value="5"><span>5</span></label>
+      </fieldset>
+    </div>
+    {% endfor %}
+
+    <div class="question-item" style="margin-top: 1.5rem;">
       <p class="prompt"><em>Which statements resonated most strongly for you? What did that reveal about what money means to you?</em></p>
       <div class="answer-area">
         <textarea data-question-id="likert-notes" rows="4" placeholder="Your reflection on the quiz…"></textarea>
