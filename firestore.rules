@@ -8,5 +8,14 @@ service cloud.firestore {
       allow read, write: if request.auth != null
                          && request.auth.uid == userId;
     }
+
+    // Shared session content (summaries, notes) any club member can
+    // read and edit. Auth alone is sufficient because the site's
+    // allow-list gate (ALLOWED_EMAILS in default.html) already
+    // rejects anyone who isn't a club member at sign-in.
+    // Path: sessions/{sessionId}/fields/{fieldName}
+    match /sessions/{sessionId}/fields/{fieldName} {
+      allow read, write: if request.auth != null;
+    }
   }
 }
