@@ -175,9 +175,10 @@ title: "Dare to Be Average — April 25"
   <h2>2 · Jeff's Summary 🎯</h2>
   <p class="section-time">10 minutes</p>
   <p>Jeff walks us through Chapter 14 — the main ideas, the exercises worth doing, and whatever grabbed him most.</p>
-  <div class="placeholder">
-    Jeff's notes will land here. Jeff, feel free to drop bullet points ahead of time — or we'll capture them during the session.
-  </div>
+  <div class="shared-text"
+       data-session="april-25"
+       data-field="summary"
+       data-placeholder="No summary yet — Jeff, drop your notes here. Anyone signed in can edit, and everyone else sees the update live."></div>
 </div>
 
 <div class="section-block">
@@ -208,7 +209,10 @@ title: "Dare to Be Average — April 25"
 <div class="section-block">
   <h2>Notes from the session</h2>
   <p class="section-time">Filled in after we meet</p>
-  <div class="placeholder">
-    Capture highlights, good quotes, and whatever we want to remember here.
-  </div>
+  <div class="shared-text"
+       data-session="april-25"
+       data-field="notes"
+       data-placeholder="Capture highlights, good quotes, and whatever we want to remember here. Anyone signed in can edit."></div>
 </div>
+
+{% include shared-text.html %}
