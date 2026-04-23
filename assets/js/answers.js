@@ -21,6 +21,28 @@ const db = getFirestore(app);
 const DATE_ID = window.ANSWERS_DATE_ID;
 const DEBOUNCE_MS = 700;
 
+// ---- Hide/show-all-answers toggle (runs before auth is resolved) -----
+const TOGGLE_KEY = `answersHidden:${DATE_ID || "default"}`;
+
+function applyHiddenState(hidden) {
+  document.body.classList.toggle("answers-hidden", hidden);
+  document.querySelectorAll("[data-answers-toggle]").forEach((btn) => {
+    btn.textContent = hidden ? "Show my answers" : "Hide my answers";
+    btn.setAttribute("aria-pressed", hidden ? "true" : "false");
+  });
+}
+
+applyHiddenState(localStorage.getItem(TOGGLE_KEY) === "1");
+
+document.querySelectorAll("[data-answers-toggle]").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    const nowHidden = !document.body.classList.contains("answers-hidden");
+    applyHiddenState(nowHidden);
+    localStorage.setItem(TOGGLE_KEY, nowHidden ? "1" : "0");
+  });
+});
+
+// ---- Firestore load/save ---------------------------------------------
 function debounce(fn, ms) {
   let t;
   return (...args) => {
