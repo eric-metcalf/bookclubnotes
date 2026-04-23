@@ -1,57 +1,146 @@
 ---
 layout: default
-title: Feeling Good Book Club
+title: Book Club
 ---
 
-<div class="hero">
-  <div class="book-cover">
-    <img
-      src="https://covers.openlibrary.org/b/isbn/0380810336-L.jpg"
-      alt="Feeling Good: The New Mood Therapy book cover"
-    >
-  </div>
-  <div class="hero-text">
-    <h1>Feeling Good</h1>
-    <p class="subtitle">The New Mood Therapy &mdash; David D. Burns, M.D.</p>
-    <p>
-      We're exploring one of the best-selling psychology books of all time — a practical,
-      research-backed guide to understanding and improving your mood through cognitive
-      behavioral therapy. No prior experience needed, just curiosity and a willingness
-      to reflect.
-    </p>
-  </div>
+<style>
+  .books-hero {
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
+
+  .books-hero h1 {
+    font-family: 'Lora', serif;
+    font-size: 2.25rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+
+  .books-hero p {
+    color: var(--charcoal-mid);
+    font-size: 1rem;
+    max-width: 540px;
+    margin: 0 auto;
+    line-height: 1.7;
+  }
+
+  .book-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .book-tile {
+    background: var(--white);
+    border-radius: 20px;
+    padding: 2rem 1.75rem;
+    box-shadow: var(--shadow-soft);
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    transition: transform 0.15s, box-shadow 0.15s;
+    border-left: 4px solid var(--sage);
+  }
+
+  .book-tile:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 32px rgba(0, 0, 0, 0.10);
+  }
+
+  .book-tile .cover {
+    width: 140px;
+    margin-bottom: 1.25rem;
+  }
+
+  .book-tile .cover img {
+    width: 100%;
+    border-radius: 6px;
+    box-shadow: 6px 8px 24px rgba(0, 0, 0, 0.18);
+    display: block;
+  }
+
+  .book-tile .cover.placeholder {
+    height: 210px;
+    border-radius: 6px;
+    background: linear-gradient(145deg, #EAF0EA, #F5EAE7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    box-shadow: 6px 8px 24px rgba(0, 0, 0, 0.12);
+  }
+
+  .book-tile h2 {
+    font-family: 'Lora', serif;
+    font-size: 1.35rem;
+    font-weight: 600;
+    color: var(--charcoal);
+    margin: 0 0 0.3rem;
+    border-bottom: none;
+    padding: 0;
+  }
+
+  .book-tile .author {
+    font-family: 'Lora', serif;
+    font-style: italic;
+    color: var(--sage-dark);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+  }
+
+  .book-tile p {
+    font-size: 0.88rem;
+    color: var(--charcoal-mid);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .book-tile .open-cta {
+    margin-top: 1.25rem;
+    color: var(--sage-dark);
+    font-size: 0.85rem;
+    font-weight: 500;
+  }
+
+  .book-tile:hover .open-cta {
+    color: var(--rose);
+  }
+</style>
+
+<div class="books-hero">
+  <h1>Our Bookshelf</h1>
+  <p>Pick a book to see our schedule, notes, and exercises.</p>
 </div>
 
+<div class="book-grid">
 
-## Meeting Schedule
+  <a href="{{ '/feeling-good/' | relative_url }}" class="book-tile">
+    <div class="cover">
+      <img
+        src="https://covers.openlibrary.org/b/isbn/0380810336-L.jpg"
+        alt="Feeling Good: The New Mood Therapy book cover"
+      >
+    </div>
+    <h2>Feeling Good</h2>
+    <p class="author">David D. Burns, M.D.</p>
+    <p>A practical, research-backed guide to understanding and improving your mood through cognitive behavioral therapy.</p>
+    <p class="open-cta">Open →</p>
+  </a>
 
-We meet every Saturday at 8:00 AM PT / 11:00 AM ET. Bring your book, your
-thoughts, and something delicious to share if you're hosting.
-
-{% include schedule.html %}
-
-
-## About Our Club
-
-<div class="about-card" markdown="1">
-
-We're a small group of friends who believe reading is better together. This club
-is a space to slow down, think carefully, and talk honestly — about books, and
-about life.
-
-*Feeling Good* felt like the right choice for this moment. Burns writes with
-warmth and humor, and the ideas he covers — how our thoughts shape our feelings,
-how we talk to ourselves, how we get in our own way — feel genuinely useful, not
-just academically interesting.
-
-### A few things we try to hold
-
-- **Curiosity over expertise.** You don't need to have it all figured out.
-- **Candor with kindness.** We can be honest without being unkind.
-- **No phones during discussion.** (Okay, mostly.)
-
-### Questions? Ideas?
-
-Reach out to any of the organizers directly, or bring it up at the next meeting.
+  <a href="{{ '/8-dates/' | relative_url }}" class="book-tile">
+    <div class="cover">
+      <img
+        src="https://covers.openlibrary.org/b/isbn/9781523504466-L.jpg"
+        alt="Eight Dates book cover"
+      >
+    </div>
+    <h2>Eight Dates</h2>
+    <p class="author">John &amp; Julie Gottman</p>
+    <p>Eight structured conversations for couples — from trust to money to dreams — drawn from decades of Gottman research.</p>
+    <p class="open-cta">Open →</p>
+  </a>
 
 </div>
