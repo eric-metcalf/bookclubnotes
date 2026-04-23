@@ -65,55 +65,109 @@ function autosize(el) {
   el.style.height = el.scrollHeight + "px";
 }
 
+// Shared status pill for a group of inputs (e.g. the Likert block).
+// Flashes text and dismisses on a timeout for "saved" state.
+function makeGroupStatus(containerEl) {
+  const el = containerEl?.querySelector(".group-save-status");
+  let clearTimer;
+  return (text, state) => {
+    if (!el) return;
+    clearTimeout(clearTimer);
+    el.textContent = text;
+    el.dataset.state = state;
+    if (state === "saved") {
+      clearTimer = setTimeout(() => {
+        el.textContent = "";
+        el.dataset.state = "idle";
+      }, 1500);
+    }
+  };
+}
+
+function setupTextarea(ta, userDocRef, data) {
+  const qid = ta.dataset.questionId;
+  if (data[qid]?.answer != null) ta.value = data[qid].answer;
+  autosize(ta);
+  setStatus(ta, "", "idle");
+
+  const save = debounce(async () => {
+    setStatus(ta, "Saving…", "saving");
+    try {
+      await setDoc(
+        userDocRef,
+        {
+          [qid]: { answer: ta.value, updatedAt: serverTimestamp() },
+        },
+        { merge: true }
+      );
+      setStatus(ta, "Saved", "saved");
+    } catch (err) {
+      console.error("Failed to save:", err);
+      setStatus(ta, "Couldn't save", "error");
+    }
+  }, DEBOUNCE_MS);
+
+  ta.addEventListener("input", () => {
+    autosize(ta);
+    setStatus(ta, "Typing…", "typing");
+    save();
+  });
+}
+
+function setupLikertRow(row, userDocRef, data, flashStatus) {
+  const qid = row.dataset.questionId;
+  const existing = data[qid]?.answer;
+  if (existing != null) {
+    const match = row.querySelector(
+      `input[type="radio"][value="${existing}"]`
+    );
+    if (match) match.checked = true;
+  }
+
+  row.querySelectorAll('input[type="radio"]').forEach((r) => {
+    r.addEventListener("change", async () => {
+      if (!r.checked) return;
+      flashStatus("Saving…", "saving");
+      try {
+        await setDoc(
+          userDocRef,
+          {
+            [qid]: { answer: r.value, updatedAt: serverTimestamp() },
+          },
+          { merge: true }
+        );
+        flashStatus("Saved", "saved");
+      } catch (err) {
+        console.error("Failed to save:", err);
+        flashStatus("Couldn't save", "error");
+      }
+    });
+  });
+}
+
 onAuthStateChanged(auth, async (user) => {
   if (!user || !DATE_ID) return;
 
   const userDocRef = doc(db, "users", user.uid, "answers", DATE_ID);
   const textareas = document.querySelectorAll("textarea[data-question-id]");
+  const likertBlocks = document.querySelectorAll(".likert-block");
 
+  let data = {};
   try {
     const snap = await getDoc(userDocRef);
-    const data = snap.exists() ? snap.data() : {};
-    textareas.forEach((ta) => {
-      const qid = ta.dataset.questionId;
-      if (data[qid]?.answer != null) {
-        ta.value = data[qid].answer;
-      }
-      autosize(ta);
-      setStatus(ta, "", "idle");
-    });
+    data = snap.exists() ? snap.data() : {};
   } catch (err) {
     console.error("Failed to load answers:", err);
     textareas.forEach((ta) => setStatus(ta, "Couldn't load", "error"));
+    return;
   }
 
-  textareas.forEach((ta) => {
-    const qid = ta.dataset.questionId;
+  textareas.forEach((ta) => setupTextarea(ta, userDocRef, data));
 
-    const save = debounce(async () => {
-      setStatus(ta, "Saving…", "saving");
-      try {
-        await setDoc(
-          userDocRef,
-          {
-            [qid]: {
-              answer: ta.value,
-              updatedAt: serverTimestamp(),
-            },
-          },
-          { merge: true }
-        );
-        setStatus(ta, "Saved", "saved");
-      } catch (err) {
-        console.error("Failed to save:", err);
-        setStatus(ta, "Couldn't save", "error");
-      }
-    }, DEBOUNCE_MS);
-
-    ta.addEventListener("input", () => {
-      autosize(ta);
-      setStatus(ta, "Typing…", "typing");
-      save();
-    });
+  likertBlocks.forEach((block) => {
+    const flash = makeGroupStatus(block);
+    block
+      .querySelectorAll(".likert-row[data-question-id]")
+      .forEach((row) => setupLikertRow(row, userDocRef, data, flash));
   });
 });
