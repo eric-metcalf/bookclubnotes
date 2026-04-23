@@ -1,0 +1,268 @@
+<style>
+  .dates-page { max-width: 780px; margin: 0 auto; }
+
+  .dates-intro {
+    background: var(--white);
+    border-radius: 20px;
+    padding: 2rem;
+    margin-bottom: 2.5rem;
+    box-shadow: var(--shadow-soft);
+  }
+
+  .dates-intro h1 {
+    font-family: 'Lora', serif;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+
+  .dates-intro .subtitle {
+    font-family: 'Lora', serif;
+    font-style: italic;
+    color: var(--sage-dark);
+    margin-bottom: 1rem;
+  }
+
+  .dates-intro p {
+    font-size: 0.95rem;
+    color: var(--charcoal-mid);
+    line-height: 1.7;
+  }
+
+  .date-tile-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.25rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .date-tile {
+    background: var(--white);
+    border-radius: var(--radius);
+    padding: 1.4rem 1.5rem;
+    box-shadow: var(--shadow-card);
+    border-left: 4px solid var(--sage);
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+
+  .date-tile:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.09);
+  }
+
+  .date-tile.featured {
+    border-left-color: var(--rose);
+  }
+
+  .date-tile .date-number {
+    display: inline-block;
+    background: var(--cream);
+    color: var(--sage-dark);
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.22rem 0.6rem;
+    border-radius: 4px;
+    margin-bottom: 0.65rem;
+    align-self: flex-start;
+  }
+
+  .date-tile.featured .date-number {
+    background: #FDEDE8;
+    color: var(--rose);
+  }
+
+  .date-tile h2 {
+    font-family: 'Lora', serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 0 0 0.25rem;
+    color: var(--charcoal);
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .date-tile .theme {
+    font-family: 'Lora', serif;
+    font-style: italic;
+    color: var(--sage-dark);
+    font-size: 0.88rem;
+    margin: 0 0 0.6rem;
+  }
+
+  .date-tile.featured .theme {
+    color: var(--rose);
+  }
+
+  .date-tile p.blurb {
+    font-size: 0.85rem;
+    color: var(--charcoal-mid);
+    line-height: 1.6;
+    margin: 0 0 0.9rem;
+  }
+
+  .date-tile .open-cta {
+    margin-top: auto;
+    color: var(--sage-dark);
+    font-size: 0.8rem;
+    font-weight: 500;
+  }
+
+  .date-tile.featured .open-cta { color: var(--rose); }
+
+  .date-card {
+    background: var(--white);
+    border-radius: var(--radius);
+    padding: 1.75rem 2rem;
+    margin-bottom: 1.5rem;
+    box-shadow: var(--shadow-card);
+    border-left: 4px solid var(--sage);
+  }
+
+  .date-card.featured {
+    border-left-color: var(--rose);
+    box-shadow: 0 4px 20px rgba(196, 128, 106, 0.12);
+  }
+
+  .date-number {
+    display: inline-block;
+    background: var(--cream);
+    color: var(--sage-dark);
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.25rem 0.65rem;
+    border-radius: 4px;
+    margin-bottom: 0.75rem;
+  }
+
+  .date-card.featured .date-number {
+    background: #FDEDE8;
+    color: var(--rose);
+  }
+
+  .date-card h2 {
+    font-family: 'Lora', serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0 0 0.35rem;
+    color: var(--charcoal);
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .date-card .theme {
+    font-family: 'Lora', serif;
+    font-style: italic;
+    color: var(--sage-dark);
+    font-size: 0.95rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .date-card.featured .theme {
+    color: var(--rose);
+  }
+
+  .date-card h3 {
+    font-family: 'Lora', serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--charcoal);
+    margin: 1.5rem 0 0.5rem;
+  }
+
+  .date-card p {
+    font-size: 0.9rem;
+    color: var(--charcoal-mid);
+    line-height: 1.7;
+  }
+
+  .date-card ol, .date-card ul {
+    padding-left: 1.35rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .date-card li {
+    font-size: 0.9rem;
+    color: var(--charcoal-mid);
+    line-height: 1.7;
+    margin-bottom: 0.4rem;
+  }
+
+  .exercise-block {
+    background: #FDEDE8;
+    border-radius: 10px;
+    padding: 1rem 1.25rem;
+    margin: 1rem 0;
+  }
+
+  .exercise-block .ex-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--rose);
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+
+  .exercise-block h4 {
+    font-family: 'Lora', serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--charcoal);
+    margin: 0 0 0.5rem;
+  }
+
+  .note {
+    font-size: 0.82rem;
+    color: var(--charcoal-light);
+    font-style: italic;
+    margin-top: 1rem;
+    padding-top: 0.75rem;
+    border-top: 1px dashed var(--cream-dark);
+  }
+
+  .date-pager {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+
+  .date-pager a {
+    flex: 1;
+    background: var(--white);
+    border: 1px solid var(--cream-dark);
+    border-radius: var(--radius-sm);
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+    color: var(--charcoal-mid);
+    font-size: 0.85rem;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
+  }
+
+  .date-pager a:hover {
+    background: var(--sage);
+    color: var(--white);
+    border-color: var(--sage);
+  }
+
+  .date-pager a.next { text-align: right; }
+  .date-pager a.prev { text-align: left; }
+  .date-pager .pager-label {
+    display: block;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--charcoal-light);
+    margin-bottom: 0.2rem;
+  }
+  .date-pager a:hover .pager-label { color: rgba(255,255,255,0.8); }
+  .date-pager .pager-spacer { flex: 1; }
+</style>
