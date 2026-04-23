@@ -1,0 +1,30 @@
+# Bookshelf — edit `status` to promote or retire a book.
+# Valid statuses: active (highlighted at top), upcoming (in "Next Up"), past.
+
+- title: Eight Dates
+  author: John & Julie Gottman
+  description: Eight structured conversations for couples — from trust to money to dreams — drawn from decades of Gottman research.
+  cover_isbn: "9781523504466"
+  url: /8-dates/
+  status: active
+
+- title: Feeling Good
+  author: David D. Burns, M.D.
+  description: A practical, research-backed guide to understanding and improving your mood through cognitive behavioral therapy.
+  cover_isbn: "0380810336"
+  url: /feeling-good/
+  status: active
+
+- title: I Will Teach You to Be Rich
+  author: Ramit Sethi
+  description: A six-week program to automate your finances, stop worrying about money, and build a "rich life" on your own terms.
+  cover_isbn: "9781523505746"
+  url: /i-will-teach-you-to-be-rich/
+  status: upcoming
+
+- title: Four Thousand Weeks
+  author: Oliver Burkeman
+  description: Time management for mortals — a philosophical, often funny case for making peace with our limits and choosing what actually matters.
+  cover_isbn: "9780374159122"
+  url: /four-thousand-weeks/
+  status: upcoming
