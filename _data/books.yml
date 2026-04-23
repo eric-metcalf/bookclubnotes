@@ -28,3 +28,17 @@
   cover_isbn: "9780374159122"
   url: /four-thousand-weeks/
   status: upcoming
+
+- title: The Simple Path to Wealth
+  author: JL Collins
+  description: A plainspoken guide to financial independence through low-cost index-fund investing — originally written as letters to the author's daughter.
+  cover_isbn: "9781533667922"
+  url: /simple-path-to-wealth/
+  status: upcoming
+
+- title: Money for Couples
+  author: Ramit Sethi
+  description: A 10-step plan for couples to stop fighting about money and design a shared rich life — full of scripts, exercises, and real conversations.
+  cover_isbn: "9780593716830"
+  url: /money-for-couples/
+  status: upcoming
