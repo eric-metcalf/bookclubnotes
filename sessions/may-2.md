@@ -150,7 +150,7 @@ title: "Coping with the Stresses and Strains of Daily Living — May 2"
   <h3>Today's Plan</h3>
   <ul class="agenda-list">
     <li><span>☕ Catch up &amp; popcorn</span><span class="time">20 min</span></li>
-    <li><span>🌿 Chapter summary</span><span class="time">10 min</span></li>
+    <li><span>🌿 Jeff's chapter summary</span><span class="time">10 min</span></li>
     <li><span>💬 Discussion questions</span><span class="time">25 min</span></li>
     <li><span>🌱 One take-away each</span><span class="time">5 min</span></li>
   </ul>
@@ -174,13 +174,13 @@ title: "Coping with the Stresses and Strains of Daily Living — May 2"
 </div>
 
 <div class="section-block">
-  <h2>2 · Chapter Summary 🌿</h2>
+  <h2>2 · Jeff's Summary 🌿</h2>
   <p class="section-time">10 minutes</p>
-  <p>Whoever's leading walks us through Chapter 16 — the main ideas, the techniques worth trying, and what stood out most.</p>
+  <p>Jeff walks us through Chapter 16 — the main ideas, the techniques worth trying, and what stood out most.</p>
   <div class="shared-text"
        data-session="may-2"
        data-field="summary"
-       data-placeholder="No summary yet — drop your notes here. Anyone signed in can edit, and everyone else sees the update live."></div>
+       data-placeholder="No summary yet — Jeff, drop your notes here. Anyone signed in can edit, and everyone else sees the update live."></div>
 </div>
 
 <div class="section-block">
