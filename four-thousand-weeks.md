@@ -28,7 +28,10 @@ permalink: /four-thousand-weeks/
 
 ## Meeting Schedule
 
-Schedule coming soon — check back here once we've picked our dates.
+We meet every Saturday at 8:00 AM PT / 11:00 AM ET. Bring your book, your
+thoughts, and something delicious to share if you're hosting.
+
+{% include schedule.html %}
 
 
 ## About the Book
