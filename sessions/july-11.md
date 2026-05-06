@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "The Impatience Spiral — July 11"
+title: "Staying on the Bus — July 11"
 ---
 
 <style>
@@ -136,11 +136,12 @@ title: "The Impatience Spiral — July 11"
 </style>
 
 <div class="session-hero">
-  <h1>The Impatience Spiral 🌪️</h1>
-  <p class="meta">Saturday, July 11, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 10</strong></p>
+  <h1>Staying on the Bus 🚌</h1>
+  <p class="meta">Saturday, July 11, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 11</strong></p>
   <blockquote class="vibe">
-    The faster things get, the less we can tolerate any wait at all. Burkeman traces
-    how speed itself has become the enemy of doing things well — or doing them at all.
+    Most things worth doing look identical to giving up — until they don't. Burkeman
+    tells the parable of the Helsinki bus station: the only people who get anywhere
+    stay on their bus past the point everyone else gets off.
   </blockquote>
 </div>
 
@@ -148,7 +149,7 @@ title: "The Impatience Spiral — July 11"
   <h3>Today's Plan</h3>
   <ul class="agenda-list">
     <li><span>☕ Catch up &amp; popcorn</span><span class="time">20 min</span></li>
-    <li><span>🌪️ Chapter summary</span><span class="time">10 min</span></li>
+    <li><span>🚌 Chapter summary</span><span class="time">10 min</span></li>
     <li><span>💬 Discussion questions</span><span class="time">25 min</span></li>
     <li><span>🌱 One take-away each</span><span class="time">5 min</span></li>
   </ul>
@@ -162,7 +163,7 @@ title: "The Impatience Spiral — July 11"
 
   <ul>
     <li>How was your week — actually?</li>
-    <li>One moment this week you got annoyed at something for being slow.</li>
+    <li>What's something you've been working at long enough to start seeing where it's going?</li>
     <li>One thing you're glad about right now.</li>
   </ul>
 
@@ -170,9 +171,9 @@ title: "The Impatience Spiral — July 11"
 </div>
 
 <div class="section-block">
-  <h2>2 · Chapter Summary 🌪️</h2>
+  <h2>2 · Chapter Summary 🚌</h2>
   <p class="section-time">10 minutes</p>
-  <p>A walk through Chapter 10 — how speed begets impatience, what gets ruined when we try to optimize it out, and Burkeman's case for slowness as a discipline.</p>
+  <p>A walk through Chapter 11 — the Helsinki bus station parable, patience as a trainable discipline, and why "originality" usually comes from staying with a shared route past the point others quit.</p>
   <div class="shared-text"
        data-session="july-11"
        data-field="summary"
@@ -184,13 +185,13 @@ title: "The Impatience Spiral — July 11"
   <p class="section-time">25 minutes</p>
   <p>Pick the ones that feel interesting — no need to go in order.</p>
   <ol>
-    <li>Where has your tolerance for slowness shrunk most? Loading screens, replies, traffic, books, conversations?</li>
-    <li>Burkeman argues impatience compounds: every quick thing makes the next slow thing feel more intolerable. Have you noticed this in yourself?</li>
-    <li>What's something genuinely good in your life that took (or is taking) longer than you'd like — and that you keep wanting to rush?</li>
-    <li>When was the last time you tried to speed something up and made it worse?</li>
-    <li>The chapter says some things — therapy, friendship, learning, parenting — <em>cannot</em> be sped up without becoming something else. Which of these are you trying to optimize anyway?</li>
-    <li>What does your life teach you to be impatient with? Where did the lesson come from?</li>
-    <li>What's one slow thing this week you'll let take its full time, deliberately?</li>
+    <li>The Helsinki bus parable: the first stops all look the same, and quitters jump off and start over. What's a "bus" you've stayed on long enough to see where it leads — and what's one you keep starting over?</li>
+    <li>Burkeman frames patience as a <em>skill</em>, not a temperament. Have you actually trained yours? How?</li>
+    <li>What in your life is at the dull middle stage — past the excitement, before the payoff — where you most feel like jumping off?</li>
+    <li>Where in your past did staying on the bus pay off? What kept you on?</li>
+    <li>The chapter argues that the "originality" you're chasing usually comes from pushing through other people's territory, not avoiding it. Does that match your experience of creative work?</li>
+    <li>Where are you confusing patience with passivity — staying because you can't bear to choose, rather than because the work is real?</li>
+    <li>What's one bus you'll commit to staying on for the next month, no matter how boring the next stop looks?</li>
   </ol>
 </div>
 
@@ -200,7 +201,7 @@ title: "The Impatience Spiral — July 11"
   <p>Around the group, one sentence each:</p>
   <ul>
     <li>One thing you're taking with you from today.</li>
-    <li>One thing you'll let be slow this week, on purpose.</li>
+    <li>One bus you'll stay on this month.</li>
   </ul>
 </div>
 

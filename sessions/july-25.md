@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "The Loneliness of the Digital Nomad — July 25"
+title: "Cosmic Insignificance Therapy — July 25"
 ---
 
 <style>
@@ -136,12 +136,11 @@ title: "The Loneliness of the Digital Nomad — July 25"
 </style>
 
 <div class="session-hero">
-  <h1>The Loneliness of the Digital Nomad 🧳</h1>
-  <p class="meta">Saturday, July 25, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 12</strong></p>
+  <h1>Cosmic Insignificance Therapy 🌌</h1>
+  <p class="meta">Saturday, July 25, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 13</strong></p>
   <blockquote class="vibe">
-    Total freedom over your time is its own kind of prison — because shared time is
-    what makes time matter. Burkeman makes the case that constraint and synchrony
-    are features, not bugs.
+    "You're not the main character. That's the good news." Burkeman argues that the
+    secret of mental peace is realizing how spectacularly <em>unimportant</em> you are.
   </blockquote>
 </div>
 
@@ -149,7 +148,7 @@ title: "The Loneliness of the Digital Nomad — July 25"
   <h3>Today's Plan</h3>
   <ul class="agenda-list">
     <li><span>☕ Catch up &amp; popcorn</span><span class="time">20 min</span></li>
-    <li><span>🧳 Chapter summary</span><span class="time">10 min</span></li>
+    <li><span>🌌 Chapter summary</span><span class="time">10 min</span></li>
     <li><span>💬 Discussion questions</span><span class="time">25 min</span></li>
     <li><span>🌱 One take-away each</span><span class="time">5 min</span></li>
   </ul>
@@ -163,7 +162,7 @@ title: "The Loneliness of the Digital Nomad — July 25"
 
   <ul>
     <li>How was your week — actually?</li>
-    <li>One moment this week you were doing something <em>at the same time</em> as other people. What was it?</li>
+    <li>One thing you've been taking too seriously this week.</li>
     <li>One thing you're glad about right now.</li>
   </ul>
 
@@ -171,9 +170,9 @@ title: "The Loneliness of the Digital Nomad — July 25"
 </div>
 
 <div class="section-block">
-  <h2>2 · Chapter Summary 🧳</h2>
+  <h2>2 · Chapter Summary 🌌</h2>
   <p class="section-time">10 minutes</p>
-  <p>A walk through Chapter 12 — why the dream of "your time, your way" tends to backfire, the value of shared rhythms, and the loneliness hiding inside total freedom.</p>
+  <p>A walk through Chapter 13 — Burkeman's case that cosmic insignificance is liberating, not crushing, and that much of our anxiety comes from believing we owe the universe something extraordinary.</p>
   <div class="shared-text"
        data-session="july-25"
        data-field="summary"
@@ -185,13 +184,13 @@ title: "The Loneliness of the Digital Nomad — July 25"
   <p class="section-time">25 minutes</p>
   <p>Pick the ones that feel interesting — no need to go in order.</p>
   <ol>
-    <li>Burkeman argues that the dream of "being your own boss / setting your own schedule" often produces a quiet loneliness. Have you felt that — or watched it?</li>
-    <li>What's something you actually loved that depended on <em>not</em> being able to choose — a class, a job, a season — where the constraint was the point?</li>
-    <li>The chapter says freedom from shared time is a loss disguised as a win. Where in modern life have we accidentally lost shared rhythms? What did we lose with them?</li>
-    <li>When were you last in genuinely synchronized time with other people? Not coordinating logistics — actually doing the same thing at the same time.</li>
-    <li>What would it take to put more shared time into your life? What's stopping you?</li>
-    <li>Are there constraints in your schedule you've been resenting that might actually be a feature, not a bug?</li>
-    <li>If "your time, your way" is the trap, what's the alternative that doesn't slide into self-erasing obligation?</li>
+    <li>Burkeman calls cosmic insignificance "therapy." Does it actually feel therapeutic to you, or does it feel like a brush-off?</li>
+    <li>What pressure in your life would deflate if you genuinely accepted that no one's watching as closely as you fear, and that history won't note you either way?</li>
+    <li>The chapter argues much of our stress comes from believing we owe the universe something extraordinary. Where do you feel that obligation? Where did it come from?</li>
+    <li>Is there something you'd do — pursue, try, abandon, say — if it didn't have to "amount to something"?</li>
+    <li>Burkeman distinguishes between feeling small (humbling) and feeling worthless (crushing). How do you tell the difference in yourself?</li>
+    <li>Where might cosmic insignificance be a <em>cope</em> — a way of avoiding stakes that are actually real?</li>
+    <li>What's one big-feeling thing in your life right now that would feel different held against four thousand weeks of cosmic time?</li>
   </ol>
 </div>
 
@@ -201,7 +200,7 @@ title: "The Loneliness of the Digital Nomad — July 25"
   <p>Around the group, one sentence each:</p>
   <ul>
     <li>One thing you're taking with you from today.</li>
-    <li>One bit of shared time you'll add (or protect) this week.</li>
+    <li>One thing you'll deliberately take less seriously this week.</li>
   </ul>
 </div>
 

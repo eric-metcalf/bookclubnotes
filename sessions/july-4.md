@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Rediscovering Rest — July 4"
+title: "The Impatience Spiral — July 4"
 ---
 
 <style>
@@ -136,12 +136,11 @@ title: "Rediscovering Rest — July 4"
 </style>
 
 <div class="session-hero">
-  <h1>Rediscovering Rest 🛋️</h1>
-  <p class="meta">Saturday, July 4, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 9</strong></p>
+  <h1>The Impatience Spiral 🌪️</h1>
+  <p class="meta">Saturday, July 4, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 10</strong></p>
   <blockquote class="vibe">
-    "Real rest doesn't make you better at work — that's why it's rest." Burkeman
-    argues we've turned leisure into another form of self-improvement, and broken
-    it in the process.
+    The faster things get, the less we can tolerate any wait at all. Burkeman traces
+    how speed itself has become the enemy of doing things well — or doing them at all.
   </blockquote>
 </div>
 
@@ -149,7 +148,7 @@ title: "Rediscovering Rest — July 4"
   <h3>Today's Plan</h3>
   <ul class="agenda-list">
     <li><span>☕ Catch up &amp; popcorn</span><span class="time">20 min</span></li>
-    <li><span>🛋️ Chapter summary</span><span class="time">10 min</span></li>
+    <li><span>🌪️ Chapter summary</span><span class="time">10 min</span></li>
     <li><span>💬 Discussion questions</span><span class="time">25 min</span></li>
     <li><span>🌱 One take-away each</span><span class="time">5 min</span></li>
   </ul>
@@ -159,11 +158,11 @@ title: "Rediscovering Rest — July 4"
   <h2>1 · Catch Up ☕</h2>
   <p class="section-time">First 20 minutes</p>
 
-  <p>July 4 weekend — fitting chapter. Before we get into it, let's land together. Fire up the popcorn picker and share whatever feels right:</p>
+  <p>Before we get into the chapter, let's land together. Fire up the popcorn picker and share whatever feels right:</p>
 
   <ul>
     <li>How was your week — actually?</li>
-    <li>What's your weekend looking like? Will any of it actually be rest?</li>
+    <li>One moment this week you got annoyed at something for being slow.</li>
     <li>One thing you're glad about right now.</li>
   </ul>
 
@@ -171,9 +170,9 @@ title: "Rediscovering Rest — July 4"
 </div>
 
 <div class="section-block">
-  <h2>2 · Chapter Summary 🛋️</h2>
+  <h2>2 · Chapter Summary 🌪️</h2>
   <p class="section-time">10 minutes</p>
-  <p>A walk through Chapter 9 — how leisure got optimized, the original meaning of Sabbath, and Burkeman's argument for "useless" rest as the only kind that works.</p>
+  <p>A walk through Chapter 10 — how speed begets impatience, what gets ruined when we try to optimize it out, and Burkeman's case for slowness as a discipline.</p>
   <div class="shared-text"
        data-session="july-4"
        data-field="summary"
@@ -185,13 +184,13 @@ title: "Rediscovering Rest — July 4"
   <p class="section-time">25 minutes</p>
   <p>Pick the ones that feel interesting — no need to go in order.</p>
   <ol>
-    <li>When you imagine "real rest," what comes to mind? When did you last actually have any of it?</li>
-    <li>Burkeman says we've made even leisure productive — workouts to get fit, vacations to recharge, hobbies to monetize. Where have you done this with your own free time?</li>
-    <li>What's a kind of rest you used to enjoy that now feels like a chore because you're trying to "do it well"?</li>
-    <li>The chapter cites the Sabbath: a <em>protected</em> day where work isn't even an option. What would it look like to have something like that in your life? What's blocking it?</li>
-    <li>Burkeman argues "wasted" time is often the most life-giving — staring at a wall, walking nowhere, doing nothing. When did you last waste time without guilt?</li>
-    <li>What's the difference between rest that recovers you for more output and rest that's an end in itself? Which kind do you actually get?</li>
-    <li>What's one thing you'd do this week purely because it was useless and you enjoyed it?</li>
+    <li>Where has your tolerance for slowness shrunk most? Loading screens, replies, traffic, books, conversations?</li>
+    <li>Burkeman argues impatience compounds: every quick thing makes the next slow thing feel more intolerable. Have you noticed this in yourself?</li>
+    <li>What's something genuinely good in your life that took (or is taking) longer than you'd like — and that you keep wanting to rush?</li>
+    <li>When was the last time you tried to speed something up and made it worse?</li>
+    <li>The chapter says some things — therapy, friendship, learning, parenting — <em>cannot</em> be sped up without becoming something else. Which of these are you trying to optimize anyway?</li>
+    <li>What does your life teach you to be impatient with? Where did the lesson come from?</li>
+    <li>What's one slow thing this week you'll let take its full time, deliberately?</li>
   </ol>
 </div>
 
@@ -201,7 +200,7 @@ title: "Rediscovering Rest — July 4"
   <p>Around the group, one sentence each:</p>
   <ul>
     <li>One thing you're taking with you from today.</li>
-    <li>One useless, unproductive thing you'll let yourself enjoy this week.</li>
+    <li>One thing you'll let be slow this week, on purpose.</li>
   </ul>
 </div>
 

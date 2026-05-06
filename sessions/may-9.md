@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "The Limit-Embracing Life — May 9"
+title: "The Limit-Embracing Life & The Efficiency Trap — May 9"
 ---
 
 <style>
@@ -136,12 +136,14 @@ title: "The Limit-Embracing Life — May 9"
 </style>
 
 <div class="session-hero">
-  <h1>The Limit-Embracing Life ⏳</h1>
-  <p class="meta">Saturday, May 9, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 1</strong></p>
+  <h1>The Limit-Embracing Life &amp; The Efficiency Trap ⏳</h1>
+  <p class="meta">Saturday, May 9, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapters 1 &amp; 2</strong></p>
   <blockquote class="vibe">
-    "The average human lifespan is absurdly, terrifyingly, insultingly short." Burkeman
-    opens with the basic math — about four thousand weeks — and argues the real
-    productivity question isn't how to fit more in, but what to give up.
+    "The average human lifespan is absurdly short — and the more efficient you get at
+    managing it, the more you become a 'limitless reservoir for other people's
+    expectations.'" Burkeman opens by taking down two pillars of productivity culture:
+    the fantasy that you can fit it all in, and the fantasy that being efficient at
+    it would even help.
   </blockquote>
 </div>
 
@@ -171,9 +173,9 @@ title: "The Limit-Embracing Life — May 9"
 </div>
 
 <div class="section-block">
-  <h2>2 · Chapter Summary ⏳</h2>
+  <h2>2 · Chapter Summaries ⏳</h2>
   <p class="section-time">10 minutes</p>
-  <p>A walk through Chapter 1 — the four-thousand-weeks premise, what Burkeman is rejecting about productivity culture, and where the rest of the book is heading.</p>
+  <p>A walk through Chapters 1 and 2 — the four-thousand-weeks premise, what Burkeman is rejecting about productivity culture, and the case that optimizing your time tends to backfire (inbox zero, the "limitless reservoir" problem, being efficient at the wrong things).</p>
   <div class="shared-text"
        data-session="may-9"
        data-field="summary"
@@ -185,13 +187,14 @@ title: "The Limit-Embracing Life — May 9"
   <p class="section-time">25 minutes</p>
   <p>Pick the ones that feel interesting — no need to go in order.</p>
   <ol>
-    <li>The book's premise is that most time-management advice is built on a lie — that you can fit it all in if you just optimize harder. Does that resonate, or does it feel defeatist?</li>
+    <li>The book's premise is that most time-management advice is built on a lie — you can't fit it all in. Does that resonate, or does it feel defeatist?</li>
     <li>What does <em>"four thousand weeks"</em> actually do for you when you sit with it? Liberating, depressing, motivating, paralyzing?</li>
-    <li>Burkeman says the goal isn't to feel better about your finitude but to let it actually change how you live. Where in your life have you been pretending you have unlimited time?</li>
     <li>What's something you've been telling yourself you'll get to "eventually" that probably won't ever happen? How does it feel to admit that out loud?</li>
-    <li>Which time-management hack, app, or system have you tried that promised more than it delivered?</li>
+    <li>Have you experienced the efficiency trap — clearing the inbox or to-do list only to find more piling on? Where does it show up worst?</li>
+    <li>What's <em>your</em> inbox-zero — the thing you optimize endlessly that just generates more of itself?</li>
+    <li>What's a productivity tool or system you've adopted that ended up making you feel busier, not freer?</li>
+    <li>Some things — relationships, deep work, parenting — actively resist optimization. Where in your life is "slow" the right answer?</li>
     <li>If you genuinely accepted that you'd never get it all done, what would you stop doing this week?</li>
-    <li>What feels uncomfortable about the limit-embracing frame? Where do you want to push back?</li>
   </ol>
 </div>
 

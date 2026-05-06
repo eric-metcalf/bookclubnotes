@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "The Efficiency Trap — May 16"
+title: "Facing Finitude — May 16"
 ---
 
 <style>
@@ -136,12 +136,12 @@ title: "The Efficiency Trap — May 16"
 </style>
 
 <div class="session-hero">
-  <h1>The Efficiency Trap ⚙️</h1>
-  <p class="meta">Saturday, May 16, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 2</strong></p>
+  <h1>Facing Finitude ⏳</h1>
+  <p class="meta">Saturday, May 16, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 3</strong></p>
   <blockquote class="vibe">
-    The more efficient you get, the more you become "a limitless reservoir for other
-    people's expectations." Optimizing your time doesn't free you — it just raises
-    the bar of what you (and everyone else) think you should be getting done.
+    "We treat our finite life as if it were infinite, and then wonder why we're miserable."
+    Drawing on Heidegger, Burkeman argues that confronting our death — really, fully — is
+    the only path to actually living.
   </blockquote>
 </div>
 
@@ -149,7 +149,7 @@ title: "The Efficiency Trap — May 16"
   <h3>Today's Plan</h3>
   <ul class="agenda-list">
     <li><span>☕ Catch up &amp; popcorn</span><span class="time">20 min</span></li>
-    <li><span>⚙️ Chapter summary</span><span class="time">10 min</span></li>
+    <li><span>⏳ Chapter summary</span><span class="time">10 min</span></li>
     <li><span>💬 Discussion questions</span><span class="time">25 min</span></li>
     <li><span>🌱 One take-away each</span><span class="time">5 min</span></li>
   </ul>
@@ -159,11 +159,11 @@ title: "The Efficiency Trap — May 16"
   <h2>1 · Catch Up ☕</h2>
   <p class="section-time">First 20 minutes</p>
 
-  <p>Before we get into the chapter, let's land together. Fire up the popcorn picker and — when it's your turn — share whatever feels right:</p>
+  <p>Heavier chapter today, so let's land before we get into it. Fire up the popcorn picker and share whatever feels right:</p>
 
   <ul>
     <li>How was your week — actually?</li>
-    <li>One thing you tried to be efficient about, and how it went.</li>
+    <li>What's been on your mind lately, big or small?</li>
     <li>One thing you're glad about right now.</li>
   </ul>
 
@@ -171,9 +171,9 @@ title: "The Efficiency Trap — May 16"
 </div>
 
 <div class="section-block">
-  <h2>2 · Chapter Summary ⚙️</h2>
+  <h2>2 · Chapter Summary ⏳</h2>
   <p class="section-time">10 minutes</p>
-  <p>A walk through Chapter 2 — why optimizing your time often backfires, the inbox-zero illusion, and Burkeman's case that being efficient at the wrong things is just doing the wrong things faster.</p>
+  <p>A walk through Chapter 3 — Heidegger, finitude as the source of meaning rather than its enemy, and why every choice forecloses every other possible life.</p>
   <div class="shared-text"
        data-session="may-16"
        data-field="summary"
@@ -185,13 +185,13 @@ title: "The Efficiency Trap — May 16"
   <p class="section-time">25 minutes</p>
   <p>Pick the ones that feel interesting — no need to go in order.</p>
   <ol>
-    <li>Have you experienced the efficiency trap personally — clearing the inbox or to-do list only to find more piling on? Where does it show up worst?</li>
-    <li>What's <em>your</em> inbox-zero — the thing you optimize endlessly that just generates more of itself?</li>
-    <li>What's a productivity tool or system you've adopted that ended up making you feel busier, not freer?</li>
-    <li>Burkeman argues being efficient at the wrong things is just doing the wrong things faster. What's something you're efficiently spending too much time on?</li>
-    <li>Some things — relationships, deep work, parenting — actively resist optimization. Where in your life is "slow" the right answer?</li>
-    <li>What would it look like to deliberately <em>not</em> keep up with something — emails, news, a hobby's discourse? What's at stake if you don't?</li>
-    <li>If your output were halved tomorrow but your real life were richer, would you take the trade? What would have to be true for you to make it?</li>
+    <li>When did you last really sit with the fact that you will die — not as a thought experiment, but as something you actually felt?</li>
+    <li>Burkeman, via Heidegger: every choice forecloses every other possible life. Does that feel like loss to you, or like clarity?</li>
+    <li>What's a "future self" version of your life that you've been quietly waiting for — the one where things settle down and the real living begins?</li>
+    <li>Has anyone in your life modeled a good relationship with finitude? What did they do (or not do) that you noticed?</li>
+    <li>The chapter argues anxiety often comes from refusing to choose, not from choosing wrong. Where are you keeping options open at the cost of moving forward?</li>
+    <li>If you really took it on board that this week is one of about four thousand, what would you spend less time on? More?</li>
+    <li>What about death do you most resist thinking about — and what might be on the other side of that resistance?</li>
   </ol>
 </div>
 
@@ -201,7 +201,7 @@ title: "The Efficiency Trap — May 16"
   <p>Around the group, one sentence each:</p>
   <ul>
     <li>One thing you're taking with you from today.</li>
-    <li>One efficiency habit you'll let yourself break this week.</li>
+    <li>One choice you'll actually <em>make</em> this week (instead of leaving the door open).</li>
   </ul>
 </div>
 

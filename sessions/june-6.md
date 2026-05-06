@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "The Watermelon Problem — June 6"
+title: "The Intimate Interrupter — June 6"
 ---
 
 <style>
@@ -136,12 +136,12 @@ title: "The Watermelon Problem — June 6"
 </style>
 
 <div class="session-hero">
-  <h1>The Watermelon Problem 🍉</h1>
-  <p class="meta">Saturday, June 6, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 5</strong></p>
+  <h1>The Intimate Interrupter 📱</h1>
+  <p class="meta">Saturday, June 6, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 6</strong></p>
   <blockquote class="vibe">
-    Millions of people watched a livestream of two people exploding a watermelon with
-    rubber bands — for hours. The internet is built to colonize attention, and where
-    your attention goes, your life goes.
+    "The reason you can't focus is rarely the phone in your pocket — it's the discomfort
+    of being alone with your own attention." Distraction is something we <em>seek</em>,
+    not something done to us.
   </blockquote>
 </div>
 
@@ -149,7 +149,7 @@ title: "The Watermelon Problem — June 6"
   <h3>Today's Plan</h3>
   <ul class="agenda-list">
     <li><span>☕ Catch up &amp; popcorn</span><span class="time">20 min</span></li>
-    <li><span>🍉 Chapter summary</span><span class="time">10 min</span></li>
+    <li><span>📱 Chapter summary</span><span class="time">10 min</span></li>
     <li><span>💬 Discussion questions</span><span class="time">25 min</span></li>
     <li><span>🌱 One take-away each</span><span class="time">5 min</span></li>
   </ul>
@@ -163,7 +163,7 @@ title: "The Watermelon Problem — June 6"
 
   <ul>
     <li>How was your week — actually?</li>
-    <li>One thing your attention got eaten by this week (no judgment).</li>
+    <li>One moment this week you reached for your phone for no real reason. What was happening just before?</li>
     <li>One thing you're glad about right now.</li>
   </ul>
 
@@ -171,9 +171,9 @@ title: "The Watermelon Problem — June 6"
 </div>
 
 <div class="section-block">
-  <h2>2 · Chapter Summary 🍉</h2>
+  <h2>2 · Chapter Summary 📱</h2>
   <p class="section-time">10 minutes</p>
-  <p>A walk through Chapter 5 — attention as the substance of life, the watermelon livestream as a parable, and the case that distraction is the business model, not a side effect.</p>
+  <p>A walk through Chapter 6 — Burkeman's argument that we don't get distracted, we distract ourselves; that the real work is tolerating the discomfort of focus, not blocking apps.</p>
   <div class="shared-text"
        data-session="june-6"
        data-field="summary"
@@ -185,13 +185,13 @@ title: "The Watermelon Problem — June 6"
   <p class="section-time">25 minutes</p>
   <p>Pick the ones that feel interesting — no need to go in order.</p>
   <ol>
-    <li>Burkeman's claim is that attention isn't a resource <em>for</em> life — it <em>is</em> life. Does that frame change how you think about a typical evening on your phone?</li>
-    <li>What's your version of the watermelon — content you've consumed for hours that, looking back, you can't even remember and didn't really enjoy?</li>
-    <li>Where does your attention go when you're not steering it? What does that say about what's happening underneath?</li>
-    <li>The chapter argues distraction isn't a side effect of modern tech — it's the product. How does that change how you feel about your own habits?</li>
-    <li>What's something you used to do for fun that became "content" — and did the shift help or harm it?</li>
-    <li>If you could only spend attention on three things this week (besides essentials), what would they be? What's already eating the time those three should get?</li>
-    <li>What's one small experiment you could run this week to see what your attention is actually like when you stop feeding it?</li>
+    <li>Burkeman says we don't get distracted — we distract <em>ourselves</em>, because focus is uncomfortable. Does that ring true? When have you caught yourself reaching for distraction at exactly the hardest part of a task?</li>
+    <li>What feeling are you usually fleeing when you pick up your phone? Boredom, anxiety, frustration, loneliness, something else?</li>
+    <li>He suggests the real work is tolerating the <em>discomfort</em> of focus, not blocking apps. Which of those have you tried, and what worked?</li>
+    <li>When was the last time you stayed with a hard task long enough to push past the urge to escape it? What changed when you did?</li>
+    <li>Where in your day is "interruptibility" actually performance — looking responsive — rather than getting work done?</li>
+    <li>What's one situation this week where you'll commit to staying with discomfort instead of bouncing? How will you know if you did?</li>
+    <li>Is there a version of you that's <em>too</em> focused — where the antidote is more interruption, not less? Where might that line be?</li>
   </ol>
 </div>
 
@@ -201,7 +201,7 @@ title: "The Watermelon Problem — June 6"
   <p>Around the group, one sentence each:</p>
   <ul>
     <li>One thing you're taking with you from today.</li>
-    <li>One thing you'll <em>actually</em> pay attention to this week.</li>
+    <li>One uncomfortable focus moment you'll deliberately stay with this week.</li>
   </ul>
 </div>
 

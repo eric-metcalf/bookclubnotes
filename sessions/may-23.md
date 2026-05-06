@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Facing Finitude — May 23"
+title: "Becoming a Better Procrastinator — May 23"
 ---
 
 <style>
@@ -136,12 +136,12 @@ title: "Facing Finitude — May 23"
 </style>
 
 <div class="session-hero">
-  <h1>Facing Finitude ⏳</h1>
-  <p class="meta">Saturday, May 23, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 3</strong></p>
+  <h1>Becoming a Better Procrastinator 🐢</h1>
+  <p class="meta">Saturday, May 23, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 4</strong></p>
   <blockquote class="vibe">
-    "We treat our finite life as if it were infinite, and then wonder why we're miserable."
-    Drawing on Heidegger, Burkeman argues that confronting our death — really, fully — is
-    the only path to actually living.
+    "Since you can't do everything, you have to choose what to neglect — and the best
+    procrastinators do this on purpose." Burkeman reframes procrastination not as a
+    failure of will, but as the inevitable shape of a finite life.
   </blockquote>
 </div>
 
@@ -149,7 +149,7 @@ title: "Facing Finitude — May 23"
   <h3>Today's Plan</h3>
   <ul class="agenda-list">
     <li><span>☕ Catch up &amp; popcorn</span><span class="time">20 min</span></li>
-    <li><span>⏳ Chapter summary</span><span class="time">10 min</span></li>
+    <li><span>🐢 Chapter summary</span><span class="time">10 min</span></li>
     <li><span>💬 Discussion questions</span><span class="time">25 min</span></li>
     <li><span>🌱 One take-away each</span><span class="time">5 min</span></li>
   </ul>
@@ -159,11 +159,11 @@ title: "Facing Finitude — May 23"
   <h2>1 · Catch Up ☕</h2>
   <p class="section-time">First 20 minutes</p>
 
-  <p>Heavier chapter today, so let's land before we get into it. Fire up the popcorn picker and share whatever feels right:</p>
+  <p>Before we get into the chapter, let's land together. Fire up the popcorn picker and share whatever feels right:</p>
 
   <ul>
     <li>How was your week — actually?</li>
-    <li>What's been on your mind lately, big or small?</li>
+    <li>What's something you've been putting off (proudly or guiltily)?</li>
     <li>One thing you're glad about right now.</li>
   </ul>
 
@@ -171,9 +171,9 @@ title: "Facing Finitude — May 23"
 </div>
 
 <div class="section-block">
-  <h2>2 · Chapter Summary ⏳</h2>
+  <h2>2 · Chapter Summary 🐢</h2>
   <p class="section-time">10 minutes</p>
-  <p>A walk through Chapter 3 — Heidegger, finitude as the source of meaning rather than its enemy, and why every choice forecloses every other possible life.</p>
+  <p>A walk through Chapter 4 — Burkeman's three principles for better procrastination: pay yourself first, limit your work in progress, and resist middling priorities. Plus the Buffett "twenty-five things" exercise.</p>
   <div class="shared-text"
        data-session="may-23"
        data-field="summary"
@@ -185,13 +185,13 @@ title: "Facing Finitude — May 23"
   <p class="section-time">25 minutes</p>
   <p>Pick the ones that feel interesting — no need to go in order.</p>
   <ol>
-    <li>When did you last really sit with the fact that you will die — not as a thought experiment, but as something you actually felt?</li>
-    <li>Burkeman, via Heidegger: every choice forecloses every other possible life. Does that feel like loss to you, or like clarity?</li>
-    <li>What's a "future self" version of your life that you've been quietly waiting for — the one where things settle down and the real living begins?</li>
-    <li>Has anyone in your life modeled a good relationship with finitude? What did they do (or not do) that you noticed?</li>
-    <li>The chapter argues anxiety often comes from refusing to choose, not from choosing wrong. Where are you keeping options open at the cost of moving forward?</li>
-    <li>If you really took it on board that this week is one of about four thousand, what would you spend less time on? More?</li>
-    <li>What about death do you most resist thinking about — and what might be on the other side of that resistance?</li>
+    <li>Burkeman says you're already procrastinating on something every minute, because you can't do everything. What are you procrastinating on right now? Is it the right thing to be skipping?</li>
+    <li>The three principles — pay yourself first, limit work in progress, resist middling priorities — which is hardest for you?</li>
+    <li>"Pay yourself first": what's the work or activity that <em>you</em> most want time for, but which always gets bumped? What stops you from putting it first?</li>
+    <li>The Warren Buffett exercise: list your top 25 goals, circle the top 5, and <em>avoid the other 20 at all costs</em> — because they're attractive enough to drain you but not important enough to matter. What's on your 6–25 list?</li>
+    <li>Where in your life are you keeping too many things "in progress" because you can't bear to fully commit or fully drop?</li>
+    <li>What's one project or goal you should officially abandon — not "pause," not "someday," actually let go of?</li>
+    <li>How do you tell the difference between procrastination that's avoidance and procrastination that's wisdom?</li>
   </ol>
 </div>
 
@@ -201,7 +201,7 @@ title: "Facing Finitude — May 23"
   <p>Around the group, one sentence each:</p>
   <ul>
     <li>One thing you're taking with you from today.</li>
-    <li>One choice you'll actually <em>make</em> this week (instead of leaving the door open).</li>
+    <li>One thing you'll deliberately neglect this week — and one thing you'll pay yourself first on.</li>
   </ul>
 </div>
 

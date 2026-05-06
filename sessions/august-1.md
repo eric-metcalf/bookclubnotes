@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Cosmic Insignificance Therapy — August 1"
+title: "The Human Disease — August 1"
 ---
 
 <style>
@@ -136,11 +136,12 @@ title: "Cosmic Insignificance Therapy — August 1"
 </style>
 
 <div class="session-hero">
-  <h1>Cosmic Insignificance Therapy 🌌</h1>
-  <p class="meta">Saturday, August 1, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 13</strong></p>
+  <h1>The Human Disease 🌱</h1>
+  <p class="meta">Saturday, August 1, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 14 · Final session</strong></p>
   <blockquote class="vibe">
-    "You're not the main character. That's the good news." Burkeman argues that the
-    secret of mental peace is realizing how spectacularly <em>unimportant</em> you are.
+    "We will never feel ready. Begin anyway." Burkeman's closing argument: the longing
+    for total mastery, total certainty, total time <em>is</em> the disease — and accepting
+    your limits is the cure.
   </blockquote>
 </div>
 
@@ -148,9 +149,9 @@ title: "Cosmic Insignificance Therapy — August 1"
   <h3>Today's Plan</h3>
   <ul class="agenda-list">
     <li><span>☕ Catch up &amp; popcorn</span><span class="time">20 min</span></li>
-    <li><span>🌌 Chapter summary</span><span class="time">10 min</span></li>
+    <li><span>🌱 Chapter summary &amp; book wrap</span><span class="time">10 min</span></li>
     <li><span>💬 Discussion questions</span><span class="time">25 min</span></li>
-    <li><span>🌱 One take-away each</span><span class="time">5 min</span></li>
+    <li><span>🌟 What's next + one take-away</span><span class="time">5 min</span></li>
   </ul>
 </div>
 
@@ -158,11 +159,11 @@ title: "Cosmic Insignificance Therapy — August 1"
   <h2>1 · Catch Up ☕</h2>
   <p class="section-time">First 20 minutes</p>
 
-  <p>Before we get into the chapter, let's land together. Fire up the popcorn picker and share whatever feels right:</p>
+  <p>Last session for this book. Before the wrap-up, let's land together. Fire up the popcorn picker and share whatever feels right:</p>
 
   <ul>
     <li>How was your week — actually?</li>
-    <li>One thing you've been taking too seriously this week.</li>
+    <li>What's stuck with you most over the last thirteen weeks?</li>
     <li>One thing you're glad about right now.</li>
   </ul>
 
@@ -170,9 +171,9 @@ title: "Cosmic Insignificance Therapy — August 1"
 </div>
 
 <div class="section-block">
-  <h2>2 · Chapter Summary 🌌</h2>
+  <h2>2 · Chapter Summary &amp; Book Wrap 🌱</h2>
   <p class="section-time">10 minutes</p>
-  <p>A walk through Chapter 13 — Burkeman's case that cosmic insignificance is liberating, not crushing, and that much of our anxiety comes from believing we owe the universe something extraordinary.</p>
+  <p>A walk through Chapter 14 — the closing argument, Burkeman's "five questions," and a quick look back at the whole arc of the book.</p>
   <div class="shared-text"
        data-session="august-1"
        data-field="summary"
@@ -182,25 +183,25 @@ title: "Cosmic Insignificance Therapy — August 1"
 <div class="section-block">
   <h2>3 · Discussion Questions 💬</h2>
   <p class="section-time">25 minutes</p>
-  <p>Pick the ones that feel interesting — no need to go in order.</p>
+  <p>Pick the ones that feel interesting — no need to go in order. Some are about the chapter; some are about the whole book.</p>
   <ol>
-    <li>Burkeman calls cosmic insignificance "therapy." Does it actually feel therapeutic to you, or does it feel like a brush-off?</li>
-    <li>What pressure in your life would deflate if you genuinely accepted that no one's watching as closely as you fear, and that history won't note you either way?</li>
-    <li>The chapter argues much of our stress comes from believing we owe the universe something extraordinary. Where do you feel that obligation? Where did it come from?</li>
-    <li>Is there something you'd do — pursue, try, abandon, say — if it didn't have to "amount to something"?</li>
-    <li>Burkeman distinguishes between feeling small (humbling) and feeling worthless (crushing). How do you tell the difference in yourself?</li>
-    <li>Where might cosmic insignificance be a <em>cope</em> — a way of avoiding stakes that are actually real?</li>
-    <li>What's one big-feeling thing in your life right now that would feel different held against four thousand weeks of cosmic time?</li>
+    <li>Burkeman calls the urge to rise above our limits "the human disease." Where does that urge live in you most? Work, body, relationships, parenting, your own mind?</li>
+    <li>Looking back over the whole book, which idea has stuck? Which one do you find yourself returning to?</li>
+    <li>What did you push back on hardest as we read? Have you softened on it, or held the line?</li>
+    <li>Where in your life have you started embracing limits in the last few months — and what changed when you did?</li>
+    <li>Pick one of Burkeman's five questions and answer it honestly: <em>Where in your life are you tolerating discomfort that's actually unnecessary? What would you do if you knew you'd never get the approval you're chasing? Are you holding yourself to standards that aren't yours?</em> (Or use the actual five from the chapter.)</li>
+    <li>If you took only one thing from this book into the rest of your year, what would it be?</li>
+    <li>We have, give or take, four thousand weeks. What does next week look like?</li>
   </ol>
 </div>
 
 <div class="section-block">
-  <h2>4 · One Take-Away 🌱</h2>
+  <h2>4 · What's Next + One Take-Away 🌟</h2>
   <p class="section-time">Last 5 minutes</p>
   <p>Around the group, one sentence each:</p>
   <ul>
-    <li>One thing you're taking with you from today.</li>
-    <li>One thing you'll deliberately take less seriously this week.</li>
+    <li>One thing you're taking with you from this book.</li>
+    <li>What should we read next?</li>
   </ul>
 </div>
 

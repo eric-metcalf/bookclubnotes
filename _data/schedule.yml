@@ -20,23 +20,20 @@
 
 - date: "April 11, 2026"
   time: "8:00 AM PT / 11:00 AM ET"
-  status: next
+  status: past
   slug: "april-11"
   topic: "Love Addiction"
   chapters: "Chapter 12"
-  notes: >
-    Burns makes the case that needing love to feel worthy is a trap — and that
-    the neediness itself tends to push love away. Come ready to share.
 
 - date: "April 18, 2026"
   time: "8:00 AM PT / 11:00 AM ET"
-  status: upcoming
+  status: past
   topic: "Your Work Is Not Your Worth"
   chapters: "Chapter 13"
 
 - date: "April 25, 2026"
   time: "8:00 AM PT / 11:00 AM ET"
-  status: upcoming
+  status: past
   slug: "april-25"
   topic: "Dare to Be Average: Ways to Overcome Perfectionism"
   chapters: "Chapter 14"
@@ -58,103 +55,96 @@
   time: "8:00 AM PT / 11:00 AM ET"
   status: next
   slug: "may-9"
-  topic: "The Limit-Embracing Life"
-  chapters: "Four Thousand Weeks · Chapter 1"
+  topic: "The Limit-Embracing Life & The Efficiency Trap"
+  chapters: "Four Thousand Weeks · Chapters 1 & 2"
   notes: >
     New book! Burkeman opens with the four-thousand-weeks premise and the case
-    that the productivity industry has been selling us a fantasy.
+    that being efficient at the wrong things is just doing the wrong things faster.
 
 - date: "May 16, 2026"
   time: "8:00 AM PT / 11:00 AM ET"
   status: upcoming
   slug: "may-16"
-  topic: "The Efficiency Trap"
-  chapters: "Four Thousand Weeks · Chapter 2"
+  topic: "Facing Finitude"
+  chapters: "Four Thousand Weeks · Chapter 3"
 
 - date: "May 23, 2026"
   time: "8:00 AM PT / 11:00 AM ET"
   status: upcoming
   slug: "may-23"
-  topic: "Facing Finitude"
-  chapters: "Four Thousand Weeks · Chapter 3"
+  topic: "Becoming a Better Procrastinator"
+  chapters: "Four Thousand Weeks · Chapter 4"
 
 - date: "May 30, 2026"
   time: "8:00 AM PT / 11:00 AM ET"
   status: upcoming
   slug: "may-30"
-  topic: "Becoming a Better Procrastinator"
-  chapters: "Four Thousand Weeks · Chapter 4"
+  topic: "The Watermelon Problem"
+  chapters: "Four Thousand Weeks · Chapter 5"
 
 - date: "June 6, 2026"
   time: "8:00 AM PT / 11:00 AM ET"
   status: upcoming
   slug: "june-6"
-  topic: "The Watermelon Problem"
-  chapters: "Four Thousand Weeks · Chapter 5"
+  topic: "The Intimate Interrupter"
+  chapters: "Four Thousand Weeks · Chapter 6"
 
 - date: "June 13, 2026"
   time: "8:00 AM PT / 11:00 AM ET"
   status: upcoming
   slug: "june-13"
-  topic: "The Intimate Interrupter"
-  chapters: "Four Thousand Weeks · Chapter 6"
-
-- date: "June 20, 2026"
-  time: "8:00 AM PT / 11:00 AM ET"
-  status: upcoming
-  slug: "june-20"
   topic: "We Never Really Have Time"
   chapters: "Four Thousand Weeks · Chapter 7"
   notes: >
     Pivot point — this is where Part II opens. Burkeman moves from "what
     finitude means" to "how to actually live with it."
 
+- date: "June 20, 2026"
+  time: "8:00 AM PT / 11:00 AM ET"
+  status: upcoming
+  slug: "june-20"
+  topic: "You Are Here"
+  chapters: "Four Thousand Weeks · Chapter 8"
+
 - date: "June 27, 2026"
   time: "8:00 AM PT / 11:00 AM ET"
   status: upcoming
   slug: "june-27"
-  topic: "You Are Here"
-  chapters: "Four Thousand Weeks · Chapter 8"
+  topic: "Rediscovering Rest"
+  chapters: "Four Thousand Weeks · Chapter 9"
 
 - date: "July 4, 2026"
   time: "8:00 AM PT / 11:00 AM ET"
   status: upcoming
   slug: "july-4"
-  topic: "Rediscovering Rest"
-  chapters: "Four Thousand Weeks · Chapter 9"
+  topic: "The Impatience Spiral"
+  chapters: "Four Thousand Weeks · Chapter 10"
 
 - date: "July 11, 2026"
   time: "8:00 AM PT / 11:00 AM ET"
   status: upcoming
   slug: "july-11"
-  topic: "The Impatience Spiral"
-  chapters: "Four Thousand Weeks · Chapter 10"
+  topic: "Staying on the Bus"
+  chapters: "Four Thousand Weeks · Chapter 11"
 
 - date: "July 18, 2026"
   time: "8:00 AM PT / 11:00 AM ET"
   status: upcoming
   slug: "july-18"
-  topic: "Staying on the Bus"
-  chapters: "Four Thousand Weeks · Chapter 11"
+  topic: "The Loneliness of the Digital Nomad"
+  chapters: "Four Thousand Weeks · Chapter 12"
 
 - date: "July 25, 2026"
   time: "8:00 AM PT / 11:00 AM ET"
   status: upcoming
   slug: "july-25"
-  topic: "The Loneliness of the Digital Nomad"
-  chapters: "Four Thousand Weeks · Chapter 12"
+  topic: "Cosmic Insignificance Therapy"
+  chapters: "Four Thousand Weeks · Chapter 13"
 
 - date: "August 1, 2026"
   time: "8:00 AM PT / 11:00 AM ET"
   status: upcoming
   slug: "august-1"
-  topic: "Cosmic Insignificance Therapy"
-  chapters: "Four Thousand Weeks · Chapter 13"
-
-- date: "August 8, 2026"
-  time: "8:00 AM PT / 11:00 AM ET"
-  status: upcoming
-  slug: "august-8"
   topic: "The Human Disease"
   chapters: "Four Thousand Weeks · Chapter 14"
   notes: >

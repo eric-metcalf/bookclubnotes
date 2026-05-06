@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Staying on the Bus — July 18"
+title: "The Loneliness of the Digital Nomad — July 18"
 ---
 
 <style>
@@ -136,12 +136,12 @@ title: "Staying on the Bus — July 18"
 </style>
 
 <div class="session-hero">
-  <h1>Staying on the Bus 🚌</h1>
-  <p class="meta">Saturday, July 18, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 11</strong></p>
+  <h1>The Loneliness of the Digital Nomad 🧳</h1>
+  <p class="meta">Saturday, July 18, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 12</strong></p>
   <blockquote class="vibe">
-    Most things worth doing look identical to giving up — until they don't. Burkeman
-    tells the parable of the Helsinki bus station: the only people who get anywhere
-    stay on their bus past the point everyone else gets off.
+    Total freedom over your time is its own kind of prison — because shared time is
+    what makes time matter. Burkeman makes the case that constraint and synchrony
+    are features, not bugs.
   </blockquote>
 </div>
 
@@ -149,7 +149,7 @@ title: "Staying on the Bus — July 18"
   <h3>Today's Plan</h3>
   <ul class="agenda-list">
     <li><span>☕ Catch up &amp; popcorn</span><span class="time">20 min</span></li>
-    <li><span>🚌 Chapter summary</span><span class="time">10 min</span></li>
+    <li><span>🧳 Chapter summary</span><span class="time">10 min</span></li>
     <li><span>💬 Discussion questions</span><span class="time">25 min</span></li>
     <li><span>🌱 One take-away each</span><span class="time">5 min</span></li>
   </ul>
@@ -163,7 +163,7 @@ title: "Staying on the Bus — July 18"
 
   <ul>
     <li>How was your week — actually?</li>
-    <li>What's something you've been working at long enough to start seeing where it's going?</li>
+    <li>One moment this week you were doing something <em>at the same time</em> as other people. What was it?</li>
     <li>One thing you're glad about right now.</li>
   </ul>
 
@@ -171,9 +171,9 @@ title: "Staying on the Bus — July 18"
 </div>
 
 <div class="section-block">
-  <h2>2 · Chapter Summary 🚌</h2>
+  <h2>2 · Chapter Summary 🧳</h2>
   <p class="section-time">10 minutes</p>
-  <p>A walk through Chapter 11 — the Helsinki bus station parable, patience as a trainable discipline, and why "originality" usually comes from staying with a shared route past the point others quit.</p>
+  <p>A walk through Chapter 12 — why the dream of "your time, your way" tends to backfire, the value of shared rhythms, and the loneliness hiding inside total freedom.</p>
   <div class="shared-text"
        data-session="july-18"
        data-field="summary"
@@ -185,13 +185,13 @@ title: "Staying on the Bus — July 18"
   <p class="section-time">25 minutes</p>
   <p>Pick the ones that feel interesting — no need to go in order.</p>
   <ol>
-    <li>The Helsinki bus parable: the first stops all look the same, and quitters jump off and start over. What's a "bus" you've stayed on long enough to see where it leads — and what's one you keep starting over?</li>
-    <li>Burkeman frames patience as a <em>skill</em>, not a temperament. Have you actually trained yours? How?</li>
-    <li>What in your life is at the dull middle stage — past the excitement, before the payoff — where you most feel like jumping off?</li>
-    <li>Where in your past did staying on the bus pay off? What kept you on?</li>
-    <li>The chapter argues that the "originality" you're chasing usually comes from pushing through other people's territory, not avoiding it. Does that match your experience of creative work?</li>
-    <li>Where are you confusing patience with passivity — staying because you can't bear to choose, rather than because the work is real?</li>
-    <li>What's one bus you'll commit to staying on for the next month, no matter how boring the next stop looks?</li>
+    <li>Burkeman argues that the dream of "being your own boss / setting your own schedule" often produces a quiet loneliness. Have you felt that — or watched it?</li>
+    <li>What's something you actually loved that depended on <em>not</em> being able to choose — a class, a job, a season — where the constraint was the point?</li>
+    <li>The chapter says freedom from shared time is a loss disguised as a win. Where in modern life have we accidentally lost shared rhythms? What did we lose with them?</li>
+    <li>When were you last in genuinely synchronized time with other people? Not coordinating logistics — actually doing the same thing at the same time.</li>
+    <li>What would it take to put more shared time into your life? What's stopping you?</li>
+    <li>Are there constraints in your schedule you've been resenting that might actually be a feature, not a bug?</li>
+    <li>If "your time, your way" is the trap, what's the alternative that doesn't slide into self-erasing obligation?</li>
   </ol>
 </div>
 
@@ -201,7 +201,7 @@ title: "Staying on the Bus — July 18"
   <p>Around the group, one sentence each:</p>
   <ul>
     <li>One thing you're taking with you from today.</li>
-    <li>One bus you'll stay on this month.</li>
+    <li>One bit of shared time you'll add (or protect) this week.</li>
   </ul>
 </div>
 

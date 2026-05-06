@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "You Are Here — June 27"
+title: "Rediscovering Rest — June 27"
 ---
 
 <style>
@@ -136,12 +136,12 @@ title: "You Are Here — June 27"
 </style>
 
 <div class="session-hero">
-  <h1>You Are Here 📍</h1>
-  <p class="meta">Saturday, June 27, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 8</strong></p>
+  <h1>Rediscovering Rest 🛋️</h1>
+  <p class="meta">Saturday, June 27, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 9</strong></p>
   <blockquote class="vibe">
-    "Stop trying to use the present as a stepping-stone to the future — it's the
-    only place you'll ever live." Burkeman makes the case against
-    instrumentalizing every moment.
+    "Real rest doesn't make you better at work — that's why it's rest." Burkeman
+    argues we've turned leisure into another form of self-improvement, and broken
+    it in the process.
   </blockquote>
 </div>
 
@@ -149,7 +149,7 @@ title: "You Are Here — June 27"
   <h3>Today's Plan</h3>
   <ul class="agenda-list">
     <li><span>☕ Catch up &amp; popcorn</span><span class="time">20 min</span></li>
-    <li><span>📍 Chapter summary</span><span class="time">10 min</span></li>
+    <li><span>🛋️ Chapter summary</span><span class="time">10 min</span></li>
     <li><span>💬 Discussion questions</span><span class="time">25 min</span></li>
     <li><span>🌱 One take-away each</span><span class="time">5 min</span></li>
   </ul>
@@ -163,7 +163,7 @@ title: "You Are Here — June 27"
 
   <ul>
     <li>How was your week — actually?</li>
-    <li>One moment this week you were genuinely <em>in</em> something — not optimizing it, not planning the next thing.</li>
+    <li>What's your weekend looking like? Will any of it actually be rest?</li>
     <li>One thing you're glad about right now.</li>
   </ul>
 
@@ -171,9 +171,9 @@ title: "You Are Here — June 27"
 </div>
 
 <div class="section-block">
-  <h2>2 · Chapter Summary 📍</h2>
+  <h2>2 · Chapter Summary 🛋️</h2>
   <p class="section-time">10 minutes</p>
-  <p>A walk through Chapter 8 — the trap of treating every moment as a means to a future moment, and what it costs us to live our lives as preparation for a life we never quite arrive at.</p>
+  <p>A walk through Chapter 9 — how leisure got optimized, the original meaning of Sabbath, and Burkeman's argument for "useless" rest as the only kind that works.</p>
   <div class="shared-text"
        data-session="june-27"
        data-field="summary"
@@ -185,13 +185,13 @@ title: "You Are Here — June 27"
   <p class="section-time">25 minutes</p>
   <p>Pick the ones that feel interesting — no need to go in order.</p>
   <ol>
-    <li>Burkeman argues most of us treat the present as a means to a better future. Where are you doing that — in work, in parenting, in fitness, in whatever?</li>
-    <li>When was the last time you were fully <em>in</em> something — not optimizing it, not posting about it, not improving for next time? What was different?</li>
-    <li>The chapter suggests "instrumentalizing" our lives — turning every moment into preparation — is a deep source of unhappiness. Does that match your experience?</li>
-    <li>What's an activity you could enjoy more if you stopped framing it as practice for something else?</li>
-    <li>Hobbies, says Burkeman, are most valuable when they're <em>useless</em>. Do you have one? What would it look like to protect it from optimization?</li>
-    <li>Where do you find it hardest to stop preparing and start living? Why there?</li>
-    <li>What's a small thing this week you could refuse to instrumentalize — eat the meal, take the walk, have the conversation, just for itself?</li>
+    <li>When you imagine "real rest," what comes to mind? When did you last actually have any of it?</li>
+    <li>Burkeman says we've made even leisure productive — workouts to get fit, vacations to recharge, hobbies to monetize. Where have you done this with your own free time?</li>
+    <li>What's a kind of rest you used to enjoy that now feels like a chore because you're trying to "do it well"?</li>
+    <li>The chapter cites the Sabbath: a <em>protected</em> day where work isn't even an option. What would it look like to have something like that in your life? What's blocking it?</li>
+    <li>Burkeman argues "wasted" time is often the most life-giving — staring at a wall, walking nowhere, doing nothing. When did you last waste time without guilt?</li>
+    <li>What's the difference between rest that recovers you for more output and rest that's an end in itself? Which kind do you actually get?</li>
+    <li>What's one thing you'd do this week purely because it was useless and you enjoyed it?</li>
   </ol>
 </div>
 
@@ -201,7 +201,7 @@ title: "You Are Here — June 27"
   <p>Around the group, one sentence each:</p>
   <ul>
     <li>One thing you're taking with you from today.</li>
-    <li>One thing this week you'll do <em>just for itself</em>.</li>
+    <li>One useless, unproductive thing you'll let yourself enjoy this week.</li>
   </ul>
 </div>
 

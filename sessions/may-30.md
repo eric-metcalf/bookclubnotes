@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Becoming a Better Procrastinator — May 30"
+title: "The Watermelon Problem — May 30"
 ---
 
 <style>
@@ -136,12 +136,12 @@ title: "Becoming a Better Procrastinator — May 30"
 </style>
 
 <div class="session-hero">
-  <h1>Becoming a Better Procrastinator 🐢</h1>
-  <p class="meta">Saturday, May 30, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 4</strong></p>
+  <h1>The Watermelon Problem 🍉</h1>
+  <p class="meta">Saturday, May 30, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 5</strong></p>
   <blockquote class="vibe">
-    "Since you can't do everything, you have to choose what to neglect — and the best
-    procrastinators do this on purpose." Burkeman reframes procrastination not as a
-    failure of will, but as the inevitable shape of a finite life.
+    Millions of people watched a livestream of two people exploding a watermelon with
+    rubber bands — for hours. The internet is built to colonize attention, and where
+    your attention goes, your life goes.
   </blockquote>
 </div>
 
@@ -149,7 +149,7 @@ title: "Becoming a Better Procrastinator — May 30"
   <h3>Today's Plan</h3>
   <ul class="agenda-list">
     <li><span>☕ Catch up &amp; popcorn</span><span class="time">20 min</span></li>
-    <li><span>🐢 Chapter summary</span><span class="time">10 min</span></li>
+    <li><span>🍉 Chapter summary</span><span class="time">10 min</span></li>
     <li><span>💬 Discussion questions</span><span class="time">25 min</span></li>
     <li><span>🌱 One take-away each</span><span class="time">5 min</span></li>
   </ul>
@@ -163,7 +163,7 @@ title: "Becoming a Better Procrastinator — May 30"
 
   <ul>
     <li>How was your week — actually?</li>
-    <li>What's something you've been putting off (proudly or guiltily)?</li>
+    <li>One thing your attention got eaten by this week (no judgment).</li>
     <li>One thing you're glad about right now.</li>
   </ul>
 
@@ -171,9 +171,9 @@ title: "Becoming a Better Procrastinator — May 30"
 </div>
 
 <div class="section-block">
-  <h2>2 · Chapter Summary 🐢</h2>
+  <h2>2 · Chapter Summary 🍉</h2>
   <p class="section-time">10 minutes</p>
-  <p>A walk through Chapter 4 — Burkeman's three principles for better procrastination: pay yourself first, limit your work in progress, and resist middling priorities. Plus the Buffett "twenty-five things" exercise.</p>
+  <p>A walk through Chapter 5 — attention as the substance of life, the watermelon livestream as a parable, and the case that distraction is the business model, not a side effect.</p>
   <div class="shared-text"
        data-session="may-30"
        data-field="summary"
@@ -185,13 +185,13 @@ title: "Becoming a Better Procrastinator — May 30"
   <p class="section-time">25 minutes</p>
   <p>Pick the ones that feel interesting — no need to go in order.</p>
   <ol>
-    <li>Burkeman says you're already procrastinating on something every minute, because you can't do everything. What are you procrastinating on right now? Is it the right thing to be skipping?</li>
-    <li>The three principles — pay yourself first, limit work in progress, resist middling priorities — which is hardest for you?</li>
-    <li>"Pay yourself first": what's the work or activity that <em>you</em> most want time for, but which always gets bumped? What stops you from putting it first?</li>
-    <li>The Warren Buffett exercise: list your top 25 goals, circle the top 5, and <em>avoid the other 20 at all costs</em> — because they're attractive enough to drain you but not important enough to matter. What's on your 6–25 list?</li>
-    <li>Where in your life are you keeping too many things "in progress" because you can't bear to fully commit or fully drop?</li>
-    <li>What's one project or goal you should officially abandon — not "pause," not "someday," actually let go of?</li>
-    <li>How do you tell the difference between procrastination that's avoidance and procrastination that's wisdom?</li>
+    <li>Burkeman's claim is that attention isn't a resource <em>for</em> life — it <em>is</em> life. Does that frame change how you think about a typical evening on your phone?</li>
+    <li>What's your version of the watermelon — content you've consumed for hours that, looking back, you can't even remember and didn't really enjoy?</li>
+    <li>Where does your attention go when you're not steering it? What does that say about what's happening underneath?</li>
+    <li>The chapter argues distraction isn't a side effect of modern tech — it's the product. How does that change how you feel about your own habits?</li>
+    <li>What's something you used to do for fun that became "content" — and did the shift help or harm it?</li>
+    <li>If you could only spend attention on three things this week (besides essentials), what would they be? What's already eating the time those three should get?</li>
+    <li>What's one small experiment you could run this week to see what your attention is actually like when you stop feeding it?</li>
   </ol>
 </div>
 
@@ -201,7 +201,7 @@ title: "Becoming a Better Procrastinator — May 30"
   <p>Around the group, one sentence each:</p>
   <ul>
     <li>One thing you're taking with you from today.</li>
-    <li>One thing you'll deliberately neglect this week — and one thing you'll pay yourself first on.</li>
+    <li>One thing you'll <em>actually</em> pay attention to this week.</li>
   </ul>
 </div>
 

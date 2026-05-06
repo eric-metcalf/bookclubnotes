@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "The Intimate Interrupter — June 13"
+title: "We Never Really Have Time — June 13"
 ---
 
 <style>
@@ -136,12 +136,12 @@ title: "The Intimate Interrupter — June 13"
 </style>
 
 <div class="session-hero">
-  <h1>The Intimate Interrupter 📱</h1>
-  <p class="meta">Saturday, June 13, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 6</strong></p>
+  <h1>We Never Really Have Time 🕰️</h1>
+  <p class="meta">Saturday, June 13, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 7 · Part II opens</strong></p>
   <blockquote class="vibe">
-    "The reason you can't focus is rarely the phone in your pocket — it's the discomfort
-    of being alone with your own attention." Distraction is something we <em>seek</em>,
-    not something done to us.
+    "You don't <em>have</em> time. Time is what you are." Burkeman pivots to Part II:
+    the future is uncertain, the present is all you ever actually inhabit, and
+    accepting that is the start of the second half of the book.
   </blockquote>
 </div>
 
@@ -149,7 +149,7 @@ title: "The Intimate Interrupter — June 13"
   <h3>Today's Plan</h3>
   <ul class="agenda-list">
     <li><span>☕ Catch up &amp; popcorn</span><span class="time">20 min</span></li>
-    <li><span>📱 Chapter summary</span><span class="time">10 min</span></li>
+    <li><span>🕰️ Chapter summary</span><span class="time">10 min</span></li>
     <li><span>💬 Discussion questions</span><span class="time">25 min</span></li>
     <li><span>🌱 One take-away each</span><span class="time">5 min</span></li>
   </ul>
@@ -159,11 +159,11 @@ title: "The Intimate Interrupter — June 13"
   <h2>1 · Catch Up ☕</h2>
   <p class="section-time">First 20 minutes</p>
 
-  <p>Before we get into the chapter, let's land together. Fire up the popcorn picker and share whatever feels right:</p>
+  <p>Halfway-ish point — pivoting into Part II. Before we get into it, let's land together. Fire up the popcorn picker and share whatever feels right:</p>
 
   <ul>
     <li>How was your week — actually?</li>
-    <li>One moment this week you reached for your phone for no real reason. What was happening just before?</li>
+    <li>What from Part I has actually stuck so far? Where do you find it slipping back?</li>
     <li>One thing you're glad about right now.</li>
   </ul>
 
@@ -171,9 +171,9 @@ title: "The Intimate Interrupter — June 13"
 </div>
 
 <div class="section-block">
-  <h2>2 · Chapter Summary 📱</h2>
+  <h2>2 · Chapter Summary 🕰️</h2>
   <p class="section-time">10 minutes</p>
-  <p>A walk through Chapter 6 — Burkeman's argument that we don't get distracted, we distract ourselves; that the real work is tolerating the discomfort of focus, not blocking apps.</p>
+  <p>A walk through Chapter 7 — the move from Part I to Part II, why we can't actually <em>possess</em> time, and what changes when we stop treating the future as a guarantee.</p>
   <div class="shared-text"
        data-session="june-13"
        data-field="summary"
@@ -185,13 +185,13 @@ title: "The Intimate Interrupter — June 13"
   <p class="section-time">25 minutes</p>
   <p>Pick the ones that feel interesting — no need to go in order.</p>
   <ol>
-    <li>Burkeman says we don't get distracted — we distract <em>ourselves</em>, because focus is uncomfortable. Does that ring true? When have you caught yourself reaching for distraction at exactly the hardest part of a task?</li>
-    <li>What feeling are you usually fleeing when you pick up your phone? Boredom, anxiety, frustration, loneliness, something else?</li>
-    <li>He suggests the real work is tolerating the <em>discomfort</em> of focus, not blocking apps. Which of those have you tried, and what worked?</li>
-    <li>When was the last time you stayed with a hard task long enough to push past the urge to escape it? What changed when you did?</li>
-    <li>Where in your day is "interruptibility" actually performance — looking responsive — rather than getting work done?</li>
-    <li>What's one situation this week where you'll commit to staying with discomfort instead of bouncing? How will you know if you did?</li>
-    <li>Is there a version of you that's <em>too</em> focused — where the antidote is more interruption, not less? Where might that line be?</li>
+    <li>The chapter argues we don't possess time — we <em>are</em> time, moment by moment. What changes if that's true?</li>
+    <li>Burkeman says treating the future as something you can guarantee is a kind of denial. Where are you doing this in your own life?</li>
+    <li>When you imagine "having time" for something — what does that actually mean? What's the picture in your head?</li>
+    <li>What's something you've been postponing because the conditions weren't right? Are they ever going to be?</li>
+    <li>The chapter critiques the idea that our worth gets built up <em>over</em> time, like savings. Have you bought into that frame? Where?</li>
+    <li>What would change if you assumed nothing about next week — that today is genuinely all you're guaranteed?</li>
+    <li>How do you keep planning and structure (which we obviously need) without falling into the illusion that the future is yours?</li>
   </ol>
 </div>
 
@@ -201,7 +201,7 @@ title: "The Intimate Interrupter — June 13"
   <p>Around the group, one sentence each:</p>
   <ul>
     <li>One thing you're taking with you from today.</li>
-    <li>One uncomfortable focus moment you'll deliberately stay with this week.</li>
+    <li>One thing you'll stop postponing into "when there's time."</li>
   </ul>
 </div>
 

@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "We Never Really Have Time — June 20"
+title: "You Are Here — June 20"
 ---
 
 <style>
@@ -136,12 +136,12 @@ title: "We Never Really Have Time — June 20"
 </style>
 
 <div class="session-hero">
-  <h1>We Never Really Have Time 🕰️</h1>
-  <p class="meta">Saturday, June 20, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 7 · Part II opens</strong></p>
+  <h1>You Are Here 📍</h1>
+  <p class="meta">Saturday, June 20, 2026 · 8:00 AM PT / 11:00 AM ET · <strong>Chapter 8</strong></p>
   <blockquote class="vibe">
-    "You don't <em>have</em> time. Time is what you are." Burkeman pivots to Part II:
-    the future is uncertain, the present is all you ever actually inhabit, and
-    accepting that is the start of the second half of the book.
+    "Stop trying to use the present as a stepping-stone to the future — it's the
+    only place you'll ever live." Burkeman makes the case against
+    instrumentalizing every moment.
   </blockquote>
 </div>
 
@@ -149,7 +149,7 @@ title: "We Never Really Have Time — June 20"
   <h3>Today's Plan</h3>
   <ul class="agenda-list">
     <li><span>☕ Catch up &amp; popcorn</span><span class="time">20 min</span></li>
-    <li><span>🕰️ Chapter summary</span><span class="time">10 min</span></li>
+    <li><span>📍 Chapter summary</span><span class="time">10 min</span></li>
     <li><span>💬 Discussion questions</span><span class="time">25 min</span></li>
     <li><span>🌱 One take-away each</span><span class="time">5 min</span></li>
   </ul>
@@ -159,11 +159,11 @@ title: "We Never Really Have Time — June 20"
   <h2>1 · Catch Up ☕</h2>
   <p class="section-time">First 20 minutes</p>
 
-  <p>Halfway-ish point — pivoting into Part II. Before we get into it, let's land together. Fire up the popcorn picker and share whatever feels right:</p>
+  <p>Before we get into the chapter, let's land together. Fire up the popcorn picker and share whatever feels right:</p>
 
   <ul>
     <li>How was your week — actually?</li>
-    <li>What from Part I has actually stuck so far? Where do you find it slipping back?</li>
+    <li>One moment this week you were genuinely <em>in</em> something — not optimizing it, not planning the next thing.</li>
     <li>One thing you're glad about right now.</li>
   </ul>
 
@@ -171,9 +171,9 @@ title: "We Never Really Have Time — June 20"
 </div>
 
 <div class="section-block">
-  <h2>2 · Chapter Summary 🕰️</h2>
+  <h2>2 · Chapter Summary 📍</h2>
   <p class="section-time">10 minutes</p>
-  <p>A walk through Chapter 7 — the move from Part I to Part II, why we can't actually <em>possess</em> time, and what changes when we stop treating the future as a guarantee.</p>
+  <p>A walk through Chapter 8 — the trap of treating every moment as a means to a future moment, and what it costs us to live our lives as preparation for a life we never quite arrive at.</p>
   <div class="shared-text"
        data-session="june-20"
        data-field="summary"
@@ -185,13 +185,13 @@ title: "We Never Really Have Time — June 20"
   <p class="section-time">25 minutes</p>
   <p>Pick the ones that feel interesting — no need to go in order.</p>
   <ol>
-    <li>The chapter argues we don't possess time — we <em>are</em> time, moment by moment. What changes if that's true?</li>
-    <li>Burkeman says treating the future as something you can guarantee is a kind of denial. Where are you doing this in your own life?</li>
-    <li>When you imagine "having time" for something — what does that actually mean? What's the picture in your head?</li>
-    <li>What's something you've been postponing because the conditions weren't right? Are they ever going to be?</li>
-    <li>The chapter critiques the idea that our worth gets built up <em>over</em> time, like savings. Have you bought into that frame? Where?</li>
-    <li>What would change if you assumed nothing about next week — that today is genuinely all you're guaranteed?</li>
-    <li>How do you keep planning and structure (which we obviously need) without falling into the illusion that the future is yours?</li>
+    <li>Burkeman argues most of us treat the present as a means to a better future. Where are you doing that — in work, in parenting, in fitness, in whatever?</li>
+    <li>When was the last time you were fully <em>in</em> something — not optimizing it, not posting about it, not improving for next time? What was different?</li>
+    <li>The chapter suggests "instrumentalizing" our lives — turning every moment into preparation — is a deep source of unhappiness. Does that match your experience?</li>
+    <li>What's an activity you could enjoy more if you stopped framing it as practice for something else?</li>
+    <li>Hobbies, says Burkeman, are most valuable when they're <em>useless</em>. Do you have one? What would it look like to protect it from optimization?</li>
+    <li>Where do you find it hardest to stop preparing and start living? Why there?</li>
+    <li>What's a small thing this week you could refuse to instrumentalize — eat the meal, take the walk, have the conversation, just for itself?</li>
   </ol>
 </div>
 
@@ -201,7 +201,7 @@ title: "We Never Really Have Time — June 20"
   <p>Around the group, one sentence each:</p>
   <ul>
     <li>One thing you're taking with you from today.</li>
-    <li>One thing you'll stop postponing into "when there's time."</li>
+    <li>One thing this week you'll do <em>just for itself</em>.</li>
   </ul>
 </div>
 
